@@ -1,0 +1,7 @@
+static/bootstrap/css/bootstrap.min.css
+static/css/font-awesome.min.css
+static/css/ionicons.min.css
+static/AdminLTE/css/AdminLTE.min.css
+static/AdminLTE/css/skins/skin-blue.min.css
+static/datatables/dataTables.bootstrap.css
+static/css/vtoy.css

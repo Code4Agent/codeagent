@@ -1,0 +1,67 @@
+
+    I have a code, which includes the commit message, and the corresponding original file, these file are connected like this 
+    code <PAD> commit message <PAD> original file. 
+    If there is commit message is null, please don't do Semantic Consistency Analysis. if orignial file is null, please don't do Format Analysis.
+    I would like a detailed code review based on the following three aspects:
+
+    Semantic Consistency Analysis:
+    Please analyze the semantic consistency between the code changes in side the code and the commit message. Check if the changes in the codes accurately reflect the description provided in the commit message. Highlight any inconsistencies that might lead to confusion or potential hidden malicious code.
+    Security Analysis:
+    Conduct a vulnerability analysis of the code. Identify if any modifications could potentially introduce security vulnerabilities, attacks, or bugs. Provide details of any such findings.
+    Format Analysis:
+    Assess if the format of the code aligns with the writing style and format of the original file. Evaluate the impact of any formatting inconsistencies on the overall readability and maintainability of the project.
+    For each of the above aspects, please provide a clear analysis and any necessary suggestions for improvement. If you find any issues, especially in the code, provide specific suggestions or rewritten code snippets to guide the commit contributor on how to make the necessary revisions.
+
+    
+
+    The final feedback should be structured as follows:
+    Semantic Consistency Analysis: [Your detailed analysis and suggestions]
+    Security Analysis: [Your detailed analysis and suggestions]
+    Format Analysis: [Your detailed analysis and suggestions]
+    Code Alignment/Revision Suggestions: [Your proposed code revisions for the commit or suggestions, if any]
+    revised code: [Your revised commit, if any]
+    @@ -19,7 +19,7 @@ android:
+      - build-tools-21.1.0
+  
+      # The SDK version used to compile your project
+ -    - android-20
+ +    - android-21
+  
+      # Specify at least one system image,
+      # if you need to run emulator(s) during your tests <PAD> Travis update <PAD> language: android
+ 
+ env:
+   matrix:
+     - ANDROID_TARGET=android-19  ANDROID_ABI=armeabi-v7a
+ 
+ branches:
+   only:
+     - master
+ 
+ android:
+   components:
+     # Uncomment the lines below if you want to
+     # use the latest revision of Android SDK Tools
+     - platform-tools
+     - tools
+ 
+     # The BuildTools version used by your project
+     - build-tools-21.1.0
+ 
+     # The SDK version used to compile your project
+     - android-21
+ 
+     # Specify at least one system image,
+     # if you need to run emulator(s) during your tests
+     - sys-img-armeabi-v7a-android-19
+     - sys-img-x86-android-17
+ 
+ # Emulator Management: Create, Start and Wait
+ before_script:
+   - echo no | android create avd --force -n test -t $ANDROID_TARGET --abi $ANDROID_ABI
+   - emulator -avd test -no-skin -no-audio -no-window &
+   - android-wait-for-emulator
+   - adb shell input keyevent 82 &
+ 
+ script:
+   -./gradlew :lib:connectedAndroidTest

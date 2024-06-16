@@ -1,0 +1,1 @@
+Fixed issue where onDismiss() did not get called if Snackbar is swiped.

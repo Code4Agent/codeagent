@@ -1,0 +1,4 @@
+function registerReqListeners(req, fn){
+  req.on('response', function(res){ fn(null, res); });
+  req.on('error', fn);
+}

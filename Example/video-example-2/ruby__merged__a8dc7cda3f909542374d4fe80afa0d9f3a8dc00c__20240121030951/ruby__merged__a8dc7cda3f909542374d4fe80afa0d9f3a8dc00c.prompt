@@ -1,0 +1,40 @@
+
+    I have a code, which includes the commit message, and the corresponding original file, these file are connected like this 
+    code <PAD> commit message <PAD> original file. 
+    If there is commit message is null, please don't do Semantic Consistency Analysis. if orignial file is null, please don't do Format Analysis.
+    I would like a detailed code review based on the following three aspects:
+
+    Semantic Consistency Analysis:
+    Please analyze the semantic consistency between the code changes in side the code and the commit message. Check if the changes in the codes accurately reflect the description provided in the commit message. Highlight any inconsistencies that might lead to confusion or potential hidden malicious code.
+    Security Analysis:
+    Conduct a vulnerability analysis of the code. Identify if any modifications could potentially introduce security vulnerabilities, attacks, or bugs. Provide details of any such findings.
+    Format Analysis:
+    Assess if the format of the code aligns with the writing style and format of the original file. Evaluate the impact of any formatting inconsistencies on the overall readability and maintainability of the project.
+    For each of the above aspects, please provide a clear analysis and any necessary suggestions for improvement. If you find any issues, especially in the code, provide specific suggestions or rewritten code snippets to guide the commit contributor on how to make the necessary revisions.
+
+    
+
+    The final feedback should be structured as follows:
+    Semantic Consistency Analysis: [Your detailed analysis and suggestions]
+    Security Analysis: [Your detailed analysis and suggestions]
+    Format Analysis: [Your detailed analysis and suggestions]
+    Code Alignment/Revision Suggestions: [Your proposed code revisions for the commit or suggestions, if any]
+    revised code: [Your revised commit, if any]
+    @@ -2,7 +2,7 @@
+  <%= raw Setting.custom_css %>
+  
+  <%- end %>
+ -<%- UserRole.where(highlighted: true).select { |role| role.color.present? }.each do |role| %>
+ +<%- UserRole.where(highlighted: true).where.not(color: [nil,'']).each do |role| %>
+ .user-role-<%= role.id %> {
+    --user-role-accent: <%= role.color %>;
+  } <PAD> Move logic out of ruby and into sql <PAD> <%- if Setting.custom_css.present? %>
+ <%= raw Setting.custom_css %>
+ 
+ <%- end %>
+ <%- UserRole.where(highlighted: true).where.not(color: [nil,'']).each do |role| %>
+.user-role-<%= role.id %> {
+   --user-role-accent: <%= role.color %>;
+ }
+ 
+ <%- end %>

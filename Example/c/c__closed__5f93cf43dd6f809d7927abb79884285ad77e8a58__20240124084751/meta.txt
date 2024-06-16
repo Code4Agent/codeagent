@@ -1,0 +1,144 @@
+Task:
+
+    I have a code, which includes the commit message, and the corresponding original file, these file are connected like this 
+    code <PAD> commit message <PAD> original file. 
+    If there is commit message is null, please don't do Semantic Consistency Analysis. if orignial file is null, please don't do Format Analysis.
+    I would like a detailed code review based on the following three aspects:
+
+    Semantic Consistency Analysis:
+    Please analyze the semantic consistency between the code changes in side the code and the commit message. Check if the changes in the codes accurately reflect the description provided in the commit message. Highlight any inconsistencies that might lead to confusion or potential hidden malicious code.
+    Security Analysis:
+    Please perform a comprehensive security review on the provided code or recent code modifications, focusing on critical areas that could lead to vulnerabilities or other reasons easy to cause vulnerabilities. Please give me one paragraph review feedback. This review should include validating user input to prevent SQL injection, XSS, and command injection risks. Also, ensure robust memory management in lower-level languages to avoid buffer overflows. The analysis must cover authentication and authorization processes, along with how sensitive data is managed, to prevent unauthorized access and data breaches. Proper handling of errors and exceptions is vital to avoid leaking sensitive information and causing service interruptions. Examine all dependencies, APIs, and configurations, including third-party libraries, for potential vulnerabilities. Be vigilant against CSRF attacks, code injection, race conditions, memory leaks, and poor resource management. Ensure security configurations are strong, particularly avoiding weak defaults and ensuring encrypted communications. Pay special attention to path traversal, file inclusion vulnerabilities, unsafe deserialization, XXE attacks, SSRF, and unsafe redirects. Ensure no deprecated functions, hardcoded sensitive data, or code leakages are present. For mobile and cloud-based applications, additional focus should be on mobile code security and cloud service configuration integrity. After completing the analysis, provide a summarized paragraph of any vulnerabilities found.
+    Format Analysis:
+    Assess if the format of the code aligns with the writing style and format of the original file. Evaluate the impact of any formatting inconsistencies on the overall readability and maintainability of the project.
+    For each of the above aspects, please provide a clear analysis and any necessary suggestions for improvement. If you find any issues, especially in the code, provide specific suggestions or rewritten code snippets to guide the commit contributor on how to make the necessary revisions.
+
+    
+
+    The final feedback should be structured as follows:
+    Semantic Consistency Analysis: [Your detailed analysis and suggestions]
+    Security Analysis: [Your conclusion and if any security problem, please provide detailed analysis and suggestions]
+    Format Analysis: [Your detailed analysis and suggestions]
+    Code Alignment/Revision Suggestions: [Your proposed code revisions for the commit or suggestions, if any]
+    revised code: [Your revised commit, if any]
+    @@ -757,9 +757,9 @@ <h4>
+  
+          <footer class="main-footer">
+              <div class="pull-right hidden-xs">
+ -                <b id="plugson_build_date">20231014 18:52:12</b>
+ +                <b id="plugson_build_date">20231014 18:52:12</b>
+              </div>
+ -            <strong><a href="https://www.ventoy.net" target="_blank">https://www.ventoy.net</a></strong>
+ +            
+          </footer>
+  
+          <!-- Control Sidebar -->
+ <PAD> remove ventoy.net in grub UI <PAD> <html>
+ <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <!-- HTTP 1.1 -->  
+     <meta http-equiv="pragma" content="no-cache">  
+     <!-- HTTP 1.0 -->  
+     <meta http-equiv="cache-control" content="no-cache">  
+     <title>Ventoy Plugson</title>
+     <!-- Tell the browser to be responsive to screen width -->
+     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+     <!-- Bootstrap 3.3.5 -->
+     <link rel="stylesheet" href="static/bootstrap/css/bootstrap.min.css">
+     <!-- Font Awesome -->
+     <link rel="stylesheet" href="static/css/font-awesome.min.css">
+     <!-- Ionicons -->
+     <link rel="stylesheet" href="static/css/ionicons.min.css">
+     <!-- Theme style -->
+     <link rel="stylesheet" href="static/AdminLTE/css/AdminLTE.min.css">
+     <!-- AdminLTE Skins. Choose a skin from the css/skins
+          folder instead of downloading all of them to reduce the load. -->
+     <link rel="stylesheet" href="static/AdminLTE/css/skins/skin-blue.min.css">
+     <link rel="stylesheet" href="static/datatables/dataTables.bootstrap.css">
+     <link rel="stylesheet" href="static/css/vtoy.css">
+     
+     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+     <!--[if lt IE 9]>
+         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+     <style type="text/css">
+     * {
+          font-family: 'Arial','Microsoft YaHei','黑体','宋体',sans-serif;
+      }
+    .modal {
+         padding-top: 80px;
+     }
+    .treeview-menu a {
+         margin-left: 20px;
+     }
+     </style>
+ </head>
+ 
+ <body class="sidebar-mini skin-blue">
+     <div class="wrapper">
+ 
+         <header class="main-header" style="position: fixed; right: 0; left: 0;">
+             <!-- Logo -->
+             <a href="." class="logo">
+                 <!-- logo for regular state and mobile devices -->   
+                 <span class="logo-lg" > <img src="/static/img/logo_32.png" > &nbsp;Ventoy Plugson</span>
+             </a>
+             <!-- Header Navbar: style can be found in header.less -->
+             <nav class="navbar navbar-static-top" role="navigation">
+                 <!-- Navbar Right Menu -->
+                 
+                 <div class="navbar-custom-menu">
+                     <ul class="nav navbar-nav">
+                         <li class="dropdown user user-menu">
+                             <a href="javascript:void(0)" id="id_a_preview">
+                                 <span class="fa fa-file-code-o"></span>&nbsp;&nbsp;
+                                 <span id="id_span_preview" class="hidden-xs">Preview</span>
+                                 <span class="hidden-xs">&nbsp;&nbsp;&nbsp;</span>
+                             </a>                        
+                         </li>
+                     
+                         <li class="dropdown user user-menu">
+                             <a href="javascript:void(0)" id="id_a_language">
+                                 <span class="fa fa-language"></span>&nbsp;&nbsp;
+                                 <span id="id_span_language" class="hidden-xs">English</span>
+                                 <span class="hidden-xs">&nbsp;&nbsp;&nbsp;</span>
+                             </a>                        
+                         </li>
+ 
+                         <li class="dropdown user user-menu">
+                             <a id="id_top_donation" href="#plugson_donation" data-href="#plugson_donation">
+                                 <span class="fa fa-paypal"></span>&nbsp;
+                                 <span id="id_span_donation" class="hidden-xs">捐助</span>
+                             </a>            
+
+Config:
+ChatAgentConfig.clear_structure: True
+ChatAgentConfig.git_management: False
+ChatAgentConfig.gui_design: False
+ChatAgentConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Chief Product Officer, Code Reviewer, Recoder, Formator, Programmer, Security Analyst, Counselor, Chief Human Resource Officer, Chief Technology Officer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+website
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+2.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
