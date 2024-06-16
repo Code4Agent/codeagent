@@ -1,0 +1,118 @@
+nohup: ignoring input
+Received string: java
+
+Processing java merged SHAs:   0%|          | 0/21 [00:00<?, ?it/s]
+Processing java merged SHAs:   5%|▍         | 1/21 [07:44<2:34:56, 464.83s/it]
+Processing java merged SHAs:  10%|▉         | 2/21 [09:45<1:23:06, 262.46s/it]
+Processing java merged SHAs:  14%|█▍        | 3/21 [12:08<1:02:24, 208.05s/it]
+Processing java merged SHAs:  19%|█▉        | 4/21 [15:50<1:00:29, 213.48s/it]
+Processing java merged SHAs:  24%|██▍       | 5/21 [19:25<57:05, 214.07s/it]  
+Processing java merged SHAs:  29%|██▊       | 6/21 [27:35<1:16:56, 307.77s/it]
+Processing java merged SHAs:  33%|███▎      | 7/21 [34:05<1:18:04, 334.62s/it]
+Processing java merged SHAs:  38%|███▊      | 8/21 [35:39<55:54, 258.05s/it]  
+Processing java merged SHAs:  43%|████▎     | 9/21 [37:58<44:09, 220.83s/it]
+Processing java merged SHAs:  48%|████▊     | 10/21 [43:51<47:59, 261.77s/it]
+Processing java merged SHAs:  52%|█████▏    | 11/21 [43:52<30:18, 181.89s/it]
+Processing java merged SHAs:  57%|█████▋    | 12/21 [50:16<36:30, 243.37s/it]
+Processing java merged SHAs:  62%|██████▏   | 13/21 [1:00:12<46:41, 350.24s/it]
+Processing java merged SHAs:  67%|██████▋   | 14/21 [1:05:05<38:50, 332.87s/it]
+Processing java merged SHAs:  71%|███████▏  | 15/21 [1:09:55<31:59, 319.99s/it]
+Processing java merged SHAs:  76%|███████▌  | 16/21 [1:15:17<26:42, 320.44s/it]
+Processing java merged SHAs:  81%|████████  | 17/21 [1:19:11<19:38, 294.62s/it]
+Processing java merged SHAs:  86%|████████▌ | 18/21 [1:23:36<14:16, 285.52s/it]
+Processing java merged SHAs:  90%|█████████ | 19/21 [1:27:59<09:17, 278.89s/it]
+Processing java merged SHAs:  95%|█████████▌| 20/21 [1:29:49<03:48, 228.06s/it]
+Processing java merged SHAs: 100%|██████████| 21/21 [1:38:47<00:00, 321.06s/it]
+Processing java merged SHAs: 100%|██████████| 21/21 [1:38:47<00:00, 282.24s/it]
+PR/java-commits/merged/7a1f7a702d105a9883d3f14f41f29f9245aea9a9-commit.txt
+PR/java-commits/merged/7248ae15c8ad0d799a1b93b0b3eade1aae01eae3-commit.txt
+PR/java-commits/merged/40e6520bbc48ccb5e46f4265d91a76965d7f9312-commit.txt
+PR/java-commits/merged/4004a53ff426c99d51823b083efd5d0a588c9e09-commit.txt
+PR/java-commits/merged/136925ddc2bec62447ec3aa9b17e2e82d0982fb4-commit.txt
+PR/java-commits/merged/6e3c6d17d943f5ac70b421653eb167e0c34b119f-commit.txt
+PR/java-commits/merged/bdc59af205de5e26881d249b40833265586af2ac-commit.txt
+PR/java-commits/merged/e45ebf2c0e6b6c4b71ab5b23e7ca179ab5679756-commit.txt
+PR/java-commits/merged/502a34010363ca97504b4147fd14ad2760b6563d-commit.txt
+PR/java-commits/merged/f6493cf95772c0e8c72ef1d9503c049ed27ca739-commit.txt
+PR/java-commits/merged/5bf40deef0c488518be9f67b3e8d52d7c1baabf4-commit.txt
+PR/java-commits/merged/23b3c622870ade81980954d15498784231b06a0b-commit.txt
+PR/java-commits/merged/7e4733d94cb453740a3218511a4fb7201d25704e-commit.txt
+PR/java-commits/merged/f9f0fcf95b01ad0cd74935387ff68082a7d8d80e-commit.txt
+PR/java-commits/merged/c9c86c521a07c1ed67f5ed1b366c1d38033f3092-commit.txt
+PR/java-commits/merged/70f20bc8ab5650b172009415a158e83297558289-commit.txt
+PR/java-commits/merged/577819be8ffe4ddf174063ee3c6781c77ea9922a-commit.txt
+PR/java-commits/merged/610ff287d4cb98715d362ac09bb86acbd2073316-commit.txt
+PR/java-commits/merged/65aee46d772e5b95b2726aa31dd9151eb83dd07c-commit.txt
+PR/java-commits/merged/7580c2808246a095753b5ce810509706ce7d1ee0-commit.txt
+PR/java-commits/merged/95539c4c7eaa41b0b756fc827a88e156b47e4a29-commit.txt
+
+Processing java closed SHAs:   0%|          | 0/50 [00:00<?, ?it/s]
+Processing java closed SHAs:   2%|▏         | 1/50 [01:58<1:36:29, 118.16s/it]
+Processing java closed SHAs:   4%|▍         | 2/50 [14:51<6:42:52, 503.59s/it]
+Processing java closed SHAs:   6%|▌         | 3/50 [19:08<5:06:20, 391.08s/it]
+Processing java closed SHAs:   8%|▊         | 4/50 [21:35<3:46:01, 294.81s/it]
+Processing java closed SHAs:  10%|█         | 5/50 [25:11<3:19:46, 266.38s/it]
+Processing java closed SHAs:  12%|█▏        | 6/50 [35:30<4:43:08, 386.11s/it]
+Processing java closed SHAs:  14%|█▍        | 7/50 [42:29<4:44:28, 396.95s/it]
+Processing java closed SHAs:  80%|████████  | 40/50 [7:45:02<58:10, 349.07s/it]  
+Processing java closed SHAs:  82%|████████▏ | 41/50 [7:51:46<54:49, 365.51s/it]
+Processing java closed SHAs:  84%|████████▍ | 42/50 [7:57:57<48:58, 367.28s/it]
+Processing java closed SHAs:  86%|████████▌ | 43/50 [8:02:40<39:53, 341.95s/it]
+Processing java closed SHAs:  88%|████████▊ | 44/50 [8:08:59<35:19, 353.18s/it]
+Processing java closed SHAs:  90%|█████████ | 45/50 [8:13:08<26:49, 321.99s/it]
+Processing java closed SHAs:  92%|█████████▏| 46/50 [8:18:31<21:28, 322.04s/it]
+Processing java closed SHAs:  94%|█████████▍| 47/50 [8:22:31<14:52, 297.62s/it]
+Processing java closed SHAs:  96%|█████████▌| 48/50 [8:26:34<09:22, 281.19s/it]
+Processing java closed SHAs:  98%|█████████▊| 49/50 [8:28:58<03:59, 239.85s/it]
+Processing java closed SHAs: 100%|██████████| 50/50 [8:36:22<00:00, 301.35s/it]
+PR/java-commits/closed/4deeffa7c3400e9f291307173ec41a752518e239-commit.txt
+PR/java-commits/closed/41cf485484d37ca9981dadd54431f35f16700aa0-commit.txt
+PR/java-commits/closed/13c9963bda5f31b4d07633bc12b0100c03da1d35-commit.txt
+PR/java-commits/closed/5096c0f896abe6b038b1082816178638d34a531a-commit.txt
+PR/java-commits/closed/fde5e79760cbf5939637e2dbe773fea84e143b49-commit.txt
+PR/java-commits/closed/5ab10d9159592f4e99697fce19322e696f1ba21b-commit.txt
+PR/java-commits/closed/99b86c0df5b47a737950520378aa7a29edae1cd7-commit.txt
+PR/java-commits/closed/53dea18e55f106c82d70144fe51f0b8cafa4ce39-commit.txt
+PR/java-commits/closed/53dea18e55f106c82d70144fe51f0b8cafa4ce39-commit.txt
+PR/java-commits/closed/ff8b54cbc3fa3748c4f01c49fd86c3ebdcadf1d1-commit.txt
+PR/java-commits/closed/81d965b87b81bf4298248bc2e3660ab9c2a26b81-commit.txt
+PR/java-commits/closed/80612031a4e8a5de1af163fb6a07a7b0f62be805-commit.txt
+PR/java-commits/closed/596b6ca2aebe0c2cdf86c14c8b373296d88d38c3-commit.txt
+PR/java-commits/closed/656db5599bb47ef4349a67c7c64f74b9177fd5a6-commit.txt
+PR/java-commits/closed/0f27be7f4391335cb9b3b999b44599dec45ebee6-commit.txt
+PR/java-commits/closed/c52cc7ce184c87b8cd4f7322d02acee3ac2a0fbf-commit.txt
+PR/java-commits/closed/57a89f63166270cbfa981ca33ed7300280e65263-commit.txt
+PR/java-commits/closed/6621a2798813ad04db202f39034edadb2c53f2c8-commit.txt
+PR/java-commits/closed/0de8d0b998e7d812b154520681b0675e07c08f50-commit.txt
+PR/java-commits/closed/81d965b87b81bf4298248bc2e3660ab9c2a26b81-commit.txt
+PR/java-commits/closed/652f2d488c3e63b580e2f28260eefbba1ad45529-commit.txt
+PR/java-commits/closed/467ea5b9f11b478ad5d5f283b7064618e0aaa94e-commit.txt
+PR/java-commits/closed/ab0dc4835dbc73a889e2306fb6ccd2f10e6e24b4-commit.txt
+PR/java-commits/closed/e2965ad1869008118bd8a53e4efb160ecdf89392-commit.txt
+PR/java-commits/closed/446cf84e95afd5960079c8a1f93e380f961d8105-commit.txt
+PR/java-commits/closed/b751c89fb4ad084b4813a4d9018271943d3106cb-commit.txt
+PR/java-commits/closed/c3bc49503e8d8a7953fef1c10cd2a1b526df4d38-commit.txt
+PR/java-commits/closed/adecf621a9f0ffcafc9959996505096d1ff48d95-commit.txt
+PR/java-commits/closed/1d7cff087aa244b13d306797a058e7fc7090c7ac-commit.txt
+PR/java-commits/closed/98ad9433ab572faa18d2a87a688bf3a932bde608-commit.txt
+PR/java-commits/closed/6034b0d694eafd3ec1ff6e15b89edfa809fddd95-commit.txt
+PR/java-commits/closed/2bb8823d29190c8ee2f9c17457cf2c9fa9d5f557-commit.txt
+PR/java-commits/closed/da45287a2ad00cf348536a6a6d46ee79d776fedb-commit.txt
+PR/java-commits/closed/0f0b06d4b4c7ea31c0499dba02920ea62d3a5634-commit.txt
+PR/java-commits/closed/4010e62cd9c86997948cd4c8c2c7461c5d762120-commit.txt
+PR/java-commits/closed/06f07b526ab44c9177dae3872c98d6510ff4bd44-commit.txt
+PR/java-commits/closed/211d9bacbacebd8b0bbee072565d1ef721e2a0ef-commit.txt
+PR/java-commits/closed/36a0b875187583796f5ae45ab16e5473f818484a-commit.txt
+PR/java-commits/closed/1f99f6fcc4e1e953a743822a19e0d9ef172c0778-commit.txt
+PR/java-commits/closed/e6e3e2433699aeecd56d91d63a9cd500e94863a0-commit.txt
+PR/java-commits/closed/a9ad37f0d959975f8306d33de5b66b2ac6b06812-commit.txt
+PR/java-commits/closed/26d576fadf4d7f7026c7c862f52150d6dbd7aeaa-commit.txt
+PR/java-commits/closed/c52cc7ce184c87b8cd4f7322d02acee3ac2a0fbf-commit.txt
+PR/java-commits/closed/b61929373c9d8c23984fb49e3ef4bd737d2fef60-commit.txt
+PR/java-commits/closed/26d576fadf4d7f7026c7c862f52150d6dbd7aeaa-commit.txt
+PR/java-commits/closed/36a0b875187583796f5ae45ab16e5473f818484a-commit.txt
+PR/java-commits/closed/acf9aafe643965ef23bbf1852a1250b948d89538-commit.txt
+PR/java-commits/closed/942a52da24e478d2f03dcd1c588c6957601fdc7c-commit.txt
+PR/java-commits/closed/87ae4c2598fcc7c617409c59f3cdddef1004e0b4-commit.txt
+PR/java-commits/closed/57a89f63166270cbfa981ca33ed7300280e65263-commit.txt
+程序执行完成。

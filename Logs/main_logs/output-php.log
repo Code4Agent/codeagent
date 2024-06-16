@@ -1,0 +1,114 @@
+nohup: ignoring input
+Received string: php
+
+Processing php merged SHAs:   0%|          | 0/21 [00:00<?, ?it/s]
+Processing php merged SHAs:   5%|▍         | 1/21 [06:18<2:06:09, 378.46s/it]
+Processing php merged SHAs:  10%|▉         | 2/21 [11:54<1:51:54, 353.41s/it]
+Processing php merged SHAs:  14%|█▍        | 3/21 [15:40<1:28:35, 295.29s/it]
+Processing php merged SHAs:  19%|█▉        | 4/21 [19:37<1:17:11, 272.46s/it]
+Processing php merged SHAs:  24%|██▍       | 5/21 [21:32<57:25, 215.35s/it]  
+Processing php merged SHAs:  29%|██▊       | 6/21 [25:42<56:49, 227.33s/it]
+Processing php merged SHAs:  33%|███▎      | 7/21 [33:37<1:11:55, 308.23s/it]
+Processing php merged SHAs:  38%|███▊      | 8/21 [35:33<53:32, 247.11s/it]  
+Processing php merged SHAs:  43%|████▎     | 9/21 [39:14<47:45, 238.81s/it]
+Processing php merged SHAs:  48%|████▊     | 10/21 [44:03<46:37, 254.34s/it]
+Processing php merged SHAs:  52%|█████▏    | 11/21 [46:39<37:22, 224.25s/it]
+Processing php merged SHAs:  57%|█████▋    | 12/21 [50:20<33:30, 223.44s/it]
+Processing php merged SHAs:  62%|██████▏   | 13/21 [52:34<26:08, 196.10s/it]
+Processing php merged SHAs:  67%|██████▋   | 14/21 [56:48<24:56, 213.76s/it]
+Processing php merged SHAs:  71%|███████▏  | 15/21 [1:00:05<20:51, 208.54s/it]
+Processing php merged SHAs:  76%|███████▌  | 16/21 [1:03:20<17:02, 204.44s/it]
+Processing php merged SHAs:  81%|████████  | 17/21 [1:10:04<17:37, 264.49s/it]
+Processing php merged SHAs:  86%|████████▌ | 18/21 [1:19:37<17:52, 357.33s/it]
+Processing php merged SHAs:  90%|█████████ | 19/21 [1:22:26<10:01, 300.60s/it]
+Processing php merged SHAs:  95%|█████████▌| 20/21 [1:29:47<05:42, 342.83s/it]
+Processing php merged SHAs: 100%|██████████| 21/21 [1:31:38<00:00, 273.44s/it]
+Processing php merged SHAs: 100%|██████████| 21/21 [1:31:38<00:00, 261.86s/it]
+PR/php-commits/merged/eba320e22bac6dd324487dbfc27f438cf5ce9de5-commit.txt
+PR/php-commits/merged/df47df59e8a7ebebfe7823321d303467fee381b3-commit.txt
+PR/php-commits/merged/96a9fbf3d3dcf445ce0176c87cbaff3e9bdc81e4-commit.txt
+PR/php-commits/merged/d252f766e2d31f795ad325ce87a320042be5d012-commit.txt
+PR/php-commits/merged/04e8d04900ecbf8ec40ab854c5519e947afbd1dd-commit.txt
+PR/php-commits/merged/4844e0d9f07c26fd80373f3e043b77d9a8d5a4ad-commit.txt
+PR/php-commits/merged/01e7c1707cf0bd27784320dd379c78671b33e186-commit.txt
+PR/php-commits/merged/57c6d12e196ee675ca3614397e69840685af6c8e-commit.txt
+PR/php-commits/merged/0eddbb284cb6614be1dccd5051f719569a12cab5-commit.txt
+PR/php-commits/merged/04e8d04900ecbf8ec40ab854c5519e947afbd1dd-commit.txt
+PR/php-commits/merged/30874fc922297474218d3e350aa09fb17ac4b9f6-commit.txt
+PR/php-commits/merged/7d4b1177ee3f2ea40ca6465f431c45203e80da3b-commit.txt
+PR/php-commits/merged/ad7c543d47735f7539e79c552eccb554bb21d03d-commit.txt
+PR/php-commits/merged/71b83f95152c5fddda42bbe24fcf0b407e41c976-commit.txt
+PR/php-commits/merged/2334436bac77edd4a9ef689297ecdd2b2227ab40-commit.txt
+PR/php-commits/merged/f84f36706dd5e352781b2be2f28f29417c625dcc-commit.txt
+PR/php-commits/merged/4a1825c274ab31e283958bd13cdab59661d0388a-commit.txt
+PR/php-commits/merged/7186d8ddfdd6e9f44288a47dfbe833b6b5068e47-commit.txt
+PR/php-commits/merged/4fee5360db58ad2800bb7d4d9e1a6a74adb56fee-commit.txt
+PR/php-commits/merged/c6275dbf454057fee99e76c6306f5dd3571f6aac-commit.txt
+PR/php-commits/merged/689f1ed5b4a64de6b3919061eaf5fedfb81d74b4-commit.txt
+
+Processing php closed SHAs:   0%|          | 0/50 [00:00<?, ?it/s]
+Processing php closed SHAs:   2%|▏         | 1/50 [03:12<2:37:31, 192.88s/it]
+Processing php closed SHAs:   4%|▍         | 2/50 [08:52<3:43:14, 279.06s/it]
+Processing php closed SHAs:   6%|▌         | 3/50 [10:48<2:40:23, 204.76s/it]
+Processing php closed SHAs:   8%|▊         | 4/50 [17:25<3:35:02, 280.50s/it]
+Processing php closed SHAs:  10%|█         | 5/50 [22:17<3:33:39, 284.88s/it]
+Processing php closed SHAs:  12%|█▏        | 6/50 [26:04<3:14:20, 265.01s/it]
+Processing php closed SHAs:  14%|█▍        | 7/50 [29:55<3:02:01, 253.99s/it]
+Processing php closed SHAs:  24%|██▍       | 12/50 [57:38<2:43:24, 258.00s/it]
+Processing php closed SHAs:  26%|██▌       | 13/50 [1:00:49<2:26:33, 237.66s/it]
+Processing php closed SHAs:  28%|██▊       | 14/50 [1:03:41<2:10:36, 217.69s/it]
+Processing php closed SHAs:  30%|███       | 15/50 [1:07:28<2:08:40, 220.59s/it]
+Processing php closed SHAs:  32%|███▏      | 16/50 [1:14:22<2:38:02, 278.89s/it]
+Processing php closed SHAs:  34%|███▍      | 17/50 [1:16:21<2:06:55, 230.76s/it]
+Processing php closed SHAs:  36%|███▌      | 18/50 [1:17:47<1:39:52, 187.27s/it]
+PR/php-commits/closed/89b140b12ef8e55b4f64683ced3862d8ffcc3c66-commit.txt
+PR/php-commits/closed/6679f059b9a0972a90df198471188da652f5c547-commit.txt
+PR/php-commits/closed/1876d35749044bb649a94d845600cb2ef3a16f21-commit.txt
+PR/php-commits/closed/0426b0cd34ac2cf09d95c6b34fa0950996772e09-commit.txt
+PR/php-commits/closed/b59f12e9e458c75002370aa3ed80356a0e509cd5-commit.txt
+PR/php-commits/closed/57890ddca67671f291b4a625224f69734a210d6b-commit.txt
+PR/php-commits/closed/954a522176a9749cbf4180f1aa4865dc84ec2e47-commit.txt
+PR/php-commits/closed/211b874b3de496bde32e631cbc1682887c150f8b-commit.txt
+PR/php-commits/closed/98f1a647d2ab0b27b9a90a57c3b8e5f121573d64-commit.txt
+PR/php-commits/closed/a5904c06fd908abffd80ccac39bf40b4a3533929-commit.txt
+PR/php-commits/closed/72aac246a201030a4afec28300a5a96d7fe4f66e-commit.txt
+PR/php-commits/closed/24a6b4ffb41a72919d2993a236e1ec221f42de4e-commit.txt
+PR/php-commits/closed/af662a7f92e491fc1fee7eeb8bde786a2539c7c3-commit.txt
+PR/php-commits/closed/fe066fb2b417eeaa2d5a3e263e7bbdd3d46b0117-commit.txt
+PR/php-commits/closed/72112b8d5733c6121fff7f4aec313f3a2b3585e1-commit.txt
+PR/php-commits/closed/fb75da42baef77635b96b975c22d8d69bb564d27-commit.txt
+PR/php-commits/closed/08ad0a250688655177a235549c84f25e0d314727-commit.txt
+PR/php-commits/closed/cd6322ae945e47b0ebe104f225cc1065c39ed96b-commit.txt
+PR/php-commits/closed/7186d8ddfdd6e9f44288a47dfbe833b6b5068e47-commit.txt
+PR/php-commits/closed/0a9d45e719ab05fc597dd5f13d68c9a95cf5259a-commit.txt
+PR/php-commits/closed/bff371262eb409ca5cdad4a0bec6778eecdcec84-commit.txt
+PR/php-commits/closed/cd8bd00aa8a9753a2514a86f357bd6df562440bd-commit.txt
+PR/php-commits/closed/765d27636a5a58b7f4b6dcaf5dcd293bf896d3eb-commit.txt
+PR/php-commits/closed/0d1f0e024d10b7c02fb8cefbe6bc2cb6e921ffc7-commit.txt
+PR/php-commits/closed/e86e8d8aae8e0189f6f147c4dbea37262536129f-commit.txt
+PR/php-commits/closed/fda759aedb459c1fa1f4eba91c27d4ac94828e80-commit.txt
+PR/php-commits/closed/8047f0791fe3be1edc30b517289f7d1123d1c21b-commit.txt
+PR/php-commits/closed/d52ad9047cf3a65eec386197e2f921458063b016-commit.txt
+PR/php-commits/closed/a5904c06fd908abffd80ccac39bf40b4a3533929-commit.txt
+PR/php-commits/closed/c35abc526d28bd8b82b3029182da4a13ecef74fa-commit.txt
+PR/php-commits/closed/e23e3d8c9cc0ea315133a072bf7a44476d6213bf-commit.txt
+PR/php-commits/closed/ae32760c808f22a8590ead28212afd3328a9c33a-commit.txt
+PR/php-commits/closed/3e0ad8c6fef99b3b958346344acb614672dd9ab8-commit.txt
+PR/php-commits/closed/f920591622ca35450934f13151d467b687ee36f9-commit.txt
+PR/php-commits/closed/0426b0cd34ac2cf09d95c6b34fa0950996772e09-commit.txt
+PR/php-commits/closed/df190e476c68688197696183b4a7cc367c88f084-commit.txt
+PR/php-commits/closed/223706588570db01a1e825df9c18fd8dac80c848-commit.txt
+PR/php-commits/closed/3637551b969c6d5254faa1667fafb8447b7bfc7f-commit.txt
+PR/php-commits/closed/f39936cf0854d83e232e80bbf0054182e6daaff7-commit.txt
+PR/php-commits/closed/9c8388d1558f5b38f4efe0aff3deb6dfdc13a937-commit.txt
+PR/php-commits/closed/88889169b89c1042adecde00509cd4d1431b6c25-commit.txt
+PR/php-commits/closed/1323e6b64bf40cca648e7533ac1c6b0e3b41ede6-commit.txt
+PR/php-commits/closed/d66989bc1a07cea62d9c9b606731b783402e6fc7-commit.txt
+PR/php-commits/closed/e677fe7696513529dc7572fcb70551ef41f1320a-commit.txt
+PR/php-commits/closed/355093929d9bf411f203a3238f47740565f00f98-commit.txt
+PR/php-commits/closed/1003944a67e55be545a42d97a82ec8cf1ce44a82-commit.txt
+PR/php-commits/closed/c91a1027495d50b1c5d8ff2ab19d5a6ecf59426c-commit.txt
+PR/php-commits/closed/211b874b3de496bde32e631cbc1682887c150f8b-commit.txt
+PR/php-commits/closed/8e1ed321e8d6c038b6ebfedd182c5c23a03491fe-commit.txt
+PR/php-commits/closed/62e0985b70dec136ce7f03e716d6101989460680-commit.txt
+程序执行完成。

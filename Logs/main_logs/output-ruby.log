@@ -1,0 +1,74 @@
+nohup: ignoring input
+Received string: ruby
+Processing ruby merged SHAs:   0%|          | 0/19 [00:00<?, ?it/s]Processing ruby merged SHAs:   5%|▌         | 1/19 [12:55<3:52:31, 775.06s/it]Processing ruby merged SHAs:  11%|█         | 2/19 [14:50<1:49:37, 386.94s/it]Processing ruby merged SHAs:  16%|█▌        | 3/19 [20:25<1:36:49, 363.09s/it]Processing ruby merged SHAs:  21%|██        | 4/19 [28:18<1:41:38, 406.55s/it]Processing ruby merged SHAs:  26%|██▋       | 5/19 [37:51<1:48:54, 466.75s/it]Processing ruby merged SHAs:  32%|███▏      | 6/19 [40:19<1:17:38, 358.34s/it]Processing ruby merged SHAs:  37%|███▋      | 7/19 [43:55<1:02:21, 311.80s/it]Processing ruby merged SHAs:  42%|████▏     | 8/19 [48:28<54:52, 299.33s/it]  Processing ruby merged SHAs:  47%|████▋     | 9/19 [54:24<52:52, 317.29s/it]Processing ruby merged SHAs:  53%|█████▎    | 10/19 [1:04:21<1:00:32, 403.61s/it]Processing ruby merged SHAs:  58%|█████▊    | 11/19 [1:13:50<1:00:33, 454.14s/it]Processing ruby merged SHAs:  63%|██████▎   | 12/19 [1:16:24<42:18, 362.69s/it]  Processing ruby merged SHAs:  68%|██████▊   | 13/19 [1:22:27<36:17, 363.00s/it]Processing ruby merged SHAs:  74%|███████▎  | 14/19 [1:24:20<23:57, 287.48s/it]Processing ruby merged SHAs:  79%|███████▉  | 15/19 [1:27:24<17:04, 256.21s/it]Processing ruby merged SHAs:  84%|████████▍ | 16/19 [1:31:39<12:47, 255.98s/it]Processing ruby merged SHAs:  89%|████████▉ | 17/19 [1:42:39<12:34, 377.21s/it]Processing ruby merged SHAs:  95%|█████████▍| 18/19 [1:46:21<05:30, 330.82s/it]Processing ruby merged SHAs: 100%|██████████| 19/19 [1:48:50<00:00, 276.03s/it]Processing ruby merged SHAs: 100%|██████████| 19/19 [1:48:50<00:00, 343.70s/it]
+PR/ruby-commits/merged/3eb85f92869e5d6fa8588f2cbf69eeb3570437c2-commit.txt
+PR/ruby-commits/merged/0ad522323e2f2fab49d0943fa77dc2318999ff13-commit.txt
+PR/ruby-commits/merged/01bb76a928e5c49fc05117b913bf653f54a31bd0-commit.txt
+PR/ruby-commits/merged/719467086f33736478d6eecdc96557d49d833a58-commit.txt
+PR/ruby-commits/merged/d8de7a7ae05d850e4efce96615a154b87b124876-commit.txt
+PR/ruby-commits/merged/6ad9937e4b8691744e9c85ee93091632e7c16c95-commit.txt
+PR/ruby-commits/merged/cc3311b57392ed79df31d4916fba617a6764c7c9-commit.txt
+PR/ruby-commits/merged/7da13cedc4037d1fcfc5018029fa9c83ad12adbb-commit.txt
+PR/ruby-commits/merged/c375e4793003996ecc13baf123b6da88539cf93a-commit.txt
+PR/ruby-commits/merged/f1d5ddaec185decbc2bb8bd80ed654079d5d2ab9-commit.txt
+PR/ruby-commits/merged/dc341307311d6b3e967283d8755d79fbdc5a7ffb-commit.txt
+PR/ruby-commits/merged/98e08a62fa72e673c0a48d75c933ebbffcf84e00-commit.txt
+PR/ruby-commits/merged/935a7a99e25d9aa99383f8b6bec715efbad6be38-commit.txt
+PR/ruby-commits/merged/ff4596bfe20678ec13c9e6df2417abf65b8c527a-commit.txt
+PR/ruby-commits/merged/772413245f782f538413a69a270ec75ee8b77f18-commit.txt
+PR/ruby-commits/merged/ff4596bfe20678ec13c9e6df2417abf65b8c527a-commit.txt
+PR/ruby-commits/merged/80b7cf2064ea172694678da335220719ca8a3709-commit.txt
+PR/ruby-commits/merged/cbde9789778310868b829207ba3d2866842b8068-commit.txt
+PR/ruby-commits/merged/2d4a7f7a4bdf2cf546ce0f5bd195023460708c9f-commit.txt
+Processing ruby closed SHAs:   0%|          | 0/50 [00:00<?, ?it/s]Processing ruby closed SHAs:   2%|▏         | 1/50 [04:28<3:39:27, 268.72s/it]Processing ruby closed SHAs:   4%|▍         | 2/50 [08:00<3:08:10, 235.22s/it]Processing ruby closed SHAs:   6%|▌         | 3/50 [09:31<2:12:31, 169.19s/it]Processing ruby closed SHAs:   8%|▊         | 4/50 [14:29<2:48:45, 220.13s/it]Processing ruby closed SHAs:  10%|█         | 5/50 [20:46<3:27:40, 276.91s/it]Processing ruby closed SHAs:  12%|█▏        | 6/50 [33:28<5:24:01, 441.84s/it]Processing ruby closed SHAs:  14%|█▍        | 7/50 [43:44<5:57:21, 498.63s/it]Processing ruby closed SHAs:  16%|█▌        | 8/50 [48:19<4:59:16, 427.53s/it]Processing ruby closed SHAs:  18%|█▊        | 9/50 [55:25<4:51:47, 427.01s/it]Processing ruby closed SHAs:  20%|██        | 10/50 [57:55<3:47:34, 341.36s/it]Processing ruby closed SHAs:  22%|██▏       | 11/50 [1:00:15<3:01:56, 279.90s/it]Processing ruby closed SHAs:  24%|██▍       | 12/50 [1:10:33<4:02:20, 382.65s/it]Processing ruby closed SHAs:  26%|██▌       | 13/50 [1:25:06<5:27:37, 531.28s/it]Processing ruby closed SHAs:  28%|██▊       | 14/50 [1:38:54<6:12:29, 620.81s/it]Processing ruby closed SHAs:  30%|███       | 15/50 [1:42:47<4:53:55, 503.88s/it]Processing ruby closed SHAs:  32%|███▏      | 16/50 [1:44:10<3:33:46, 377.25s/it]Processing ruby closed SHAs:  34%|███▍      | 17/50 [1:46:22<2:46:51, 303.37s/it]Processing ruby closed SHAs:  36%|███▌      | 18/50 [1:52:06<2:48:19, 315.61s/it]Processing ruby closed SHAs:  38%|███▊      | 19/50 [1:55:22<2:24:29, 279.67s/it]Processing ruby closed SHAs:  40%|████      | 20/50 [1:58:07<2:02:42, 245.40s/it]Processing ruby closed SHAs:  42%|████▏     | 21/50 [2:01:16<1:50:28, 228.57s/it]Processing ruby closed SHAs:  44%|████▍     | 22/50 [2:01:17<1:14:45, 160.20s/it]Processing ruby closed SHAs:  46%|████▌     | 23/50 [2:10:26<2:04:37, 276.96s/it]Processing ruby closed SHAs:  48%|████▊     | 24/50 [2:11:53<1:35:18, 219.94s/it]Processing ruby closed SHAs:  50%|█████     | 25/50 [2:16:05<1:35:34, 229.38s/it]Processing ruby closed SHAs:  52%|█████▏    | 26/50 [2:18:41<1:22:56, 207.36s/it]Processing ruby closed SHAs:  54%|█████▍    | 27/50 [2:23:42<1:30:17, 235.54s/it]Processing ruby closed SHAs:  56%|█████▌    | 28/50 [2:28:49<1:34:09, 256.81s/it]Processing ruby closed SHAs:  58%|█████▊    | 29/50 [2:37:54<2:00:10, 343.38s/it]Processing ruby closed SHAs:  60%|██████    | 30/50 [2:42:19<1:46:39, 319.98s/it]Processing ruby closed SHAs:  62%|██████▏   | 31/50 [2:47:44<1:41:44, 321.27s/it]Processing ruby closed SHAs:  64%|██████▍   | 32/50 [2:51:01<1:25:12, 284.03s/it]Processing ruby closed SHAs:  66%|██████▌   | 33/50 [2:53:41<1:09:57, 246.93s/it]Processing ruby closed SHAs:  68%|██████▊   | 34/50 [2:58:21<1:08:28, 256.79s/it]Processing ruby closed SHAs:  70%|███████   | 35/50 [3:08:54<1:32:26, 369.79s/it]Processing ruby closed SHAs:  72%|███████▏  | 36/50 [3:12:35<1:15:49, 324.94s/it]Processing ruby closed SHAs:  74%|███████▍  | 37/50 [3:16:24<1:04:12, 296.34s/it]Processing ruby closed SHAs:  76%|███████▌  | 38/50 [3:18:43<49:49, 249.13s/it]  Processing ruby closed SHAs:  78%|███████▊  | 39/50 [3:21:50<42:14, 230.38s/it]Processing ruby closed SHAs:  80%|████████  | 40/50 [3:27:59<45:20, 272.01s/it]Processing ruby closed SHAs:  82%|████████▏ | 41/50 [3:41:12<1:04:14, 428.32s/it]Processing ruby closed SHAs:  84%|████████▍ | 42/50 [3:44:45<48:28, 363.59s/it]  Processing ruby closed SHAs:  86%|████████▌ | 43/50 [3:44:45<29:43, 254.75s/it]Processing ruby closed SHAs:  88%|████████▊ | 44/50 [3:48:56<25:20, 253.48s/it]Processing ruby closed SHAs:  90%|█████████ | 45/50 [3:56:11<25:39, 307.92s/it]Processing ruby closed SHAs:  92%|█████████▏| 46/50 [3:59:47<18:41, 280.46s/it]Processing ruby closed SHAs:  94%|█████████▍| 47/50 [4:14:17<22:52, 457.41s/it]Processing ruby closed SHAs:  96%|█████████▌| 48/50 [4:17:49<12:47, 383.53s/it]Processing ruby closed SHAs:  98%|█████████▊| 49/50 [4:19:33<04:59, 299.74s/it]Processing ruby closed SHAs: 100%|██████████| 50/50 [4:23:28<00:00, 280.23s/it]Processing ruby closed SHAs: 100%|██████████| 50/50 [4:23:28<00:00, 316.16s/it]
+PR/ruby-commits/closed/98cf92e7263205d9b6c2dd6bfcfd56d30464a0a5-commit.txt
+PR/ruby-commits/closed/648bb205f9da7308a8e512079640b3d5baca8710-commit.txt
+PR/ruby-commits/closed/a3fc77cd622431b87d2388202aec1c3ee805d304-commit.txt
+PR/ruby-commits/closed/a543fd95f7aa9ea8862c48a4937ce208c807ef22-commit.txt
+PR/ruby-commits/closed/db43a47d8a7a5af7e1babaf0b538be0d96a5f4e9-commit.txt
+PR/ruby-commits/closed/db43a47d8a7a5af7e1babaf0b538be0d96a5f4e9-commit.txt
+PR/ruby-commits/closed/cdab483147ccf7a1625a23cf8ec86d9e46501678-commit.txt
+PR/ruby-commits/closed/5ea5a219d3a3f13d9d44420ac3f6a5268ec675a5-commit.txt
+PR/ruby-commits/closed/61bd8e0a716896e5ad6667fce7f1484c8897d65e-commit.txt
+PR/ruby-commits/closed/83abed5f7b59342fcfa406f885289d125d5d88a8-commit.txt
+PR/ruby-commits/closed/11e08a34bd9db4284a96e21db2a14aa0a3a23fea-commit.txt
+PR/ruby-commits/closed/24a20af1b02eb79fb3adc5672cae5ffcc651c933-commit.txt
+PR/ruby-commits/closed/ff324d5a45af674f6757e1f606c4ba2681a43c35-commit.txt
+PR/ruby-commits/closed/4e3a20bd0f95bdd7cca4589e138a702e343a2f45-commit.txt
+PR/ruby-commits/closed/61bd8e0a716896e5ad6667fce7f1484c8897d65e-commit.txt
+PR/ruby-commits/closed/3e7cf8854aefacbe31f400239a0e426b56488f50-commit.txt
+PR/ruby-commits/closed/11ddf2b92b33b6bda4a09d470dc8c171d7eeb3c5-commit.txt
+PR/ruby-commits/closed/639b6e10ad6db358aff3dba404b104b016f60951-commit.txt
+PR/ruby-commits/closed/a044ae6cbff552cecfd75c539bd56b454c972132-commit.txt
+PR/ruby-commits/closed/639b6e10ad6db358aff3dba404b104b016f60951-commit.txt
+PR/ruby-commits/closed/271f0ed5999f5f74cb8380984422bf1a8b551af4-commit.txt
+PR/ruby-commits/closed/900c14b0b195d748d427771cf797c5683f8e88b8-commit.txt
+PR/ruby-commits/closed/fe1a14707f14859c88f89a4275235bb74552d550-commit.txt
+PR/ruby-commits/closed/3e7cf8854aefacbe31f400239a0e426b56488f50-commit.txt
+PR/ruby-commits/closed/f2e5c8e1c88dcd0d4ee67b0e9dcefdc15d977d04-commit.txt
+PR/ruby-commits/closed/28854f2efb85b545bb8a97867955fe4647ad8f0b-commit.txt
+PR/ruby-commits/closed/a510974b3b13265ada4543dd3e67cf69731c8add-commit.txt
+PR/ruby-commits/closed/3aa643e85de83e7bcb58300e900eb64ee42a3be1-commit.txt
+PR/ruby-commits/closed/ffe60e41d194ccb6b75d598515e19fa85915df62-commit.txt
+PR/ruby-commits/closed/f95bb745c235768f0da47b131fc66cdded6be743-commit.txt
+PR/ruby-commits/closed/32d4d1390871efdc9baa89979182f621a583368d-commit.txt
+PR/ruby-commits/closed/030897f7baa32836f32f179bd0af438299472ce7-commit.txt
+PR/ruby-commits/closed/2dab7a6dd7e8f641f89852ba5262e3b2645a2617-commit.txt
+PR/ruby-commits/closed/f20122af8345b97f1da920a5258383e21ae9e690-commit.txt
+PR/ruby-commits/closed/3aa643e85de83e7bcb58300e900eb64ee42a3be1-commit.txt
+PR/ruby-commits/closed/ed929d2c81638ef2ae391f0ce368a7e96516c395-commit.txt
+PR/ruby-commits/closed/c209b124fc621be58c188fdecb6a78819e7617d6-commit.txt
+PR/ruby-commits/closed/158e1a0e5f2697c87e5026c7e523e21644822f54-commit.txt
+PR/ruby-commits/closed/a73a6dbe2dbb33d48ab19fd468d353bab2d1a2fd-commit.txt
+PR/ruby-commits/closed/24a20af1b02eb79fb3adc5672cae5ffcc651c933-commit.txt
+PR/ruby-commits/closed/ff324d5a45af674f6757e1f606c4ba2681a43c35-commit.txt
+PR/ruby-commits/closed/28854f2efb85b545bb8a97867955fe4647ad8f0b-commit.txt
+PR/ruby-commits/closed/0ef8e067e1f35732bd8a54aee8fb880e309c6185-commit.txt
+PR/ruby-commits/closed/32d4d1390871efdc9baa89979182f621a583368d-commit.txt
+PR/ruby-commits/closed/a31e2fda36cf476a3b8c7d1a431895e64779bc50-commit.txt
+PR/ruby-commits/closed/1fe1144c81f2d2881703631aa3d86f9ece2e5907-commit.txt
+PR/ruby-commits/closed/f95bb745c235768f0da47b131fc66cdded6be743-commit.txt
+PR/ruby-commits/closed/db43a47d8a7a5af7e1babaf0b538be0d96a5f4e9-commit.txt
+PR/ruby-commits/closed/28854f2efb85b545bb8a97867955fe4647ad8f0b-commit.txt
+PR/ruby-commits/closed/32d4d1390871efdc9baa89979182f621a583368d-commit.txt
+程序执行完成。

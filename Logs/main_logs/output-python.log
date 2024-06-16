@@ -1,0 +1,77 @@
+nohup: ignoring input
+Received string: python
+Processing python merged SHAs:   0%|          | 0/22 [00:00<?, ?it/s]Processing python merged SHAs:   5%|▍         | 1/22 [08:45<3:03:56, 525.55s/it]Processing python merged SHAs:   9%|▉         | 2/22 [16:42<2:45:35, 496.75s/it]Processing python merged SHAs:  14%|█▎        | 3/22 [22:48<2:18:27, 437.23s/it]Processing python merged SHAs:  18%|█▊        | 4/22 [25:38<1:39:33, 331.86s/it]Processing python merged SHAs:  23%|██▎       | 5/22 [32:54<1:44:35, 369.16s/it]Processing python merged SHAs:  27%|██▋       | 6/22 [35:49<1:20:50, 303.13s/it]Processing python merged SHAs:  32%|███▏      | 7/22 [42:25<1:23:23, 333.55s/it]Processing python merged SHAs:  36%|███▋      | 8/22 [49:18<1:23:46, 359.06s/it]Processing python merged SHAs:  41%|████      | 9/22 [1:10:25<2:19:17, 642.87s/it]Processing python merged SHAs:  45%|████▌     | 10/22 [1:14:19<1:43:18, 516.50s/it]Processing python merged SHAs:  50%|█████     | 11/22 [1:20:03<1:24:59, 463.58s/it]Processing python merged SHAs:  55%|█████▍    | 12/22 [1:21:37<58:33, 351.35s/it]  Processing python merged SHAs:  59%|█████▉    | 13/22 [1:35:25<1:14:19, 495.55s/it]Processing python merged SHAs:  64%|██████▎   | 14/22 [1:40:50<59:14, 444.30s/it]  Processing python merged SHAs:  68%|██████▊   | 15/22 [1:56:32<1:09:20, 594.31s/it]Processing python merged SHAs:  73%|███████▎  | 16/22 [1:58:30<45:04, 450.83s/it]  Processing python merged SHAs:  77%|███████▋  | 17/22 [2:02:27<32:12, 386.45s/it]Processing python merged SHAs:  82%|████████▏ | 18/22 [2:09:23<26:22, 395.52s/it]Processing python merged SHAs:  86%|████████▋ | 19/22 [2:21:23<24:38, 492.91s/it]Processing python merged SHAs:  91%|█████████ | 20/22 [2:29:09<16:09, 484.78s/it]Processing python merged SHAs:  95%|█████████▌| 21/22 [2:39:52<08:52, 532.17s/it]Processing python merged SHAs: 100%|██████████| 22/22 [2:42:52<00:00, 426.45s/it]Processing python merged SHAs: 100%|██████████| 22/22 [2:42:52<00:00, 444.19s/it]
+PR/python-commits/merged/a6228cc076d0ce0630c4b4424632347370bf8729-commit.txt
+PR/python-commits/merged/73f5890c1de1ca0d7b3a53aedce66b7a9dd03de7-commit.txt
+PR/python-commits/merged/879118bd0c67fd0e671c113e347a29366922475b-commit.txt
+PR/python-commits/merged/a31f50e524e3b4e16bc045f81e46ee76876a8377-commit.txt
+PR/python-commits/merged/965bbbfa5facd5dd23cf654d88770402184f4d00-commit.txt
+PR/python-commits/merged/37c413c73fc84b609d5eafa9382ea4efa7658da6-commit.txt
+PR/python-commits/merged/6bae1be76b5cd1ba49d66138b8c1a10c6d806537-commit.txt
+PR/python-commits/merged/678b388c6f144da1199a58721ed6222554c5a822-commit.txt
+PR/python-commits/merged/2b8ee9568a272b50c9408b239f9ac82788acefe3-commit.txt
+PR/python-commits/merged/3a6f50aa43c15a59c96e939aea857b20bf5163b3-commit.txt
+PR/python-commits/merged/472b32862ac82273d632fcb0cd1c6e22ca09f240-commit.txt
+PR/python-commits/merged/6e54ab2a45b940ee29d38aa4b52a57df9f2f983a-commit.txt
+PR/python-commits/merged/48481dbf64b4ea2ce97a55cea0275006b5d19e03-commit.txt
+PR/python-commits/merged/b59e7e6adba7eebc983560ec2b3b95636e2b11b8-commit.txt
+PR/python-commits/merged/eaef3138f2d97e0d241c299567d0c5f39b8faed7-commit.txt
+PR/python-commits/merged/7b985b01aa5ccc544fa1a8183e8ef08414fd279c-commit.txt
+PR/python-commits/merged/10b7c57f87d61200092cfc70b6624905dd9d3f88-commit.txt
+PR/python-commits/merged/0f3572da0f33dafa6e89cf59e7bc0f96e29ccef2-commit.txt
+PR/python-commits/merged/4151059369c129c2a69520d5dabf4caaf5f173c6-commit.txt
+PR/python-commits/merged/2b236dfaad39d5f39b0022ef314667a0f7231990-commit.txt
+PR/python-commits/merged/db618011942985fdf3ecdc484f46e77cf21567b8-commit.txt
+PR/python-commits/merged/8ac797c959ce20c740a61925bc5d8aacf7df5456-commit.txt
+Processing python closed SHAs:   0%|          | 0/50 [00:00<?, ?it/s]Processing python closed SHAs:   2%|▏         | 1/50 [07:43<6:18:16, 463.20s/it]Processing python closed SHAs:   4%|▍         | 2/50 [10:47<3:59:12, 299.01s/it]Processing python closed SHAs:   6%|▌         | 3/50 [15:29<3:48:08, 291.25s/it]Processing python closed SHAs:   8%|▊         | 4/50 [20:34<3:47:27, 296.68s/it]Processing python closed SHAs:  10%|█         | 5/50 [24:09<3:20:32, 267.38s/it]Processing python closed SHAs:  12%|█▏        | 6/50 [29:23<3:27:43, 283.25s/it]Processing python closed SHAs:  14%|█▍        | 7/50 [33:29<3:14:12, 270.98s/it]Processing python closed SHAs:  16%|█▌        | 8/50 [38:47<3:20:11, 286.00s/it]Processing python closed SHAs:  18%|█▊        | 9/50 [42:56<3:07:33, 274.47s/it]Processing python closed SHAs:  20%|██        | 10/50 [47:58<3:08:29, 282.74s/it]Processing python closed SHAs:  22%|██▏       | 11/50 [59:11<4:21:27, 402.23s/it]Processing python closed SHAs:  24%|██▍       | 12/50 [1:04:07<3:54:15, 369.88s/it]Processing python closed SHAs:  26%|██▌       | 13/50 [1:13:25<4:23:14, 426.87s/it]Processing python closed SHAs:  28%|██▊       | 14/50 [1:16:11<3:28:59, 348.33s/it]Processing python closed SHAs:  30%|███       | 15/50 [1:21:17<3:15:41, 335.48s/it]Processing python closed SHAs:  32%|███▏      | 16/50 [1:29:38<3:38:21, 385.35s/it]Processing python closed SHAs:  34%|███▍      | 17/50 [1:32:12<2:53:36, 315.66s/it]Processing python closed SHAs:  36%|███▌      | 18/50 [1:37:05<2:44:46, 308.94s/it]Processing python closed SHAs:  38%|███▊      | 19/50 [1:39:13<2:11:35, 254.68s/it]Processing python closed SHAs:  40%|████      | 20/50 [1:40:36<1:41:26, 202.90s/it]Processing python closed SHAs:  42%|████▏     | 21/50 [1:47:54<2:12:17, 273.71s/it]Processing python closed SHAs:  44%|████▍     | 22/50 [1:51:00<1:55:21, 247.21s/it]Processing python closed SHAs:  46%|████▌     | 23/50 [1:52:38<1:31:05, 202.44s/it]Processing python closed SHAs:  48%|████▊     | 24/50 [1:56:43<1:33:18, 215.33s/it]Processing python closed SHAs:  50%|█████     | 25/50 [2:00:37<1:32:00, 220.83s/it]Processing python closed SHAs:  52%|█████▏    | 26/50 [2:16:15<2:54:27, 436.14s/it]Processing python closed SHAs:  54%|█████▍    | 27/50 [2:21:08<2:30:38, 392.99s/it]Processing python closed SHAs:  56%|█████▌    | 28/50 [2:24:01<1:59:57, 327.17s/it]Processing python closed SHAs:  58%|█████▊    | 29/50 [2:37:11<2:43:03, 465.89s/it]Processing python closed SHAs:  60%|██████    | 30/50 [2:41:30<2:14:34, 403.72s/it]Processing python closed SHAs:  62%|██████▏   | 31/50 [2:48:10<2:07:32, 402.77s/it]Processing python closed SHAs:  64%|██████▍   | 32/50 [2:55:08<2:02:12, 407.35s/it]Processing python closed SHAs:  66%|██████▌   | 33/50 [2:58:42<1:38:56, 349.20s/it]Processing python closed SHAs:  68%|██████▊   | 34/50 [3:04:44<1:34:08, 353.06s/it]Processing python closed SHAs:  70%|███████   | 35/50 [3:10:17<1:26:46, 347.12s/it]Processing python closed SHAs:  72%|███████▏  | 36/50 [3:16:43<1:23:44, 358.91s/it]Processing python closed SHAs:  74%|███████▍  | 37/50 [3:21:33<1:13:16, 338.16s/it]Processing python closed SHAs:  76%|███████▌  | 38/50 [3:25:59<1:03:18, 316.54s/it]Processing python closed SHAs:  78%|███████▊  | 39/50 [3:33:00<1:03:47, 347.92s/it]Processing python closed SHAs:  80%|████████  | 40/50 [3:35:26<47:51, 287.17s/it]  Processing python closed SHAs:  82%|████████▏ | 41/50 [3:40:02<42:34, 283.88s/it]Processing python closed SHAs:  84%|████████▍ | 42/50 [3:47:14<43:45, 328.19s/it]Processing python closed SHAs:  86%|████████▌ | 43/50 [3:50:26<33:31, 287.38s/it]Processing python closed SHAs:  88%|████████▊ | 44/50 [3:56:00<30:07, 301.32s/it]Processing python closed SHAs:  90%|█████████ | 45/50 [3:57:08<19:16, 231.36s/it]Processing python closed SHAs:  92%|█████████▏| 46/50 [4:01:09<15:36, 234.23s/it]Processing python closed SHAs:  94%|█████████▍| 47/50 [4:15:49<21:23, 427.97s/it]Processing python closed SHAs:  96%|█████████▌| 48/50 [4:19:41<12:18, 369.27s/it]Processing python closed SHAs:  98%|█████████▊| 49/50 [4:26:35<06:22, 382.68s/it]Processing python closed SHAs: 100%|██████████| 50/50 [4:30:23<00:00, 336.41s/it]Processing python closed SHAs: 100%|██████████| 50/50 [4:30:23<00:00, 324.48s/it]
+PR/python-commits/closed/b68f5436c07f9b68868ef550ce56692d5aa0dc20-commit.txt
+PR/python-commits/closed/525f70517b08b03e6966286ae51857def5ae5105-commit.txt
+PR/python-commits/closed/3245e904b67c9c9c96f69d16f0e50df59f2e07fa-commit.txt
+PR/python-commits/closed/3fd26eb50683af40173a5681339868e16a8e0121-commit.txt
+PR/python-commits/closed/dd9a52bb7c186066f2d389b11954bb62918b5645-commit.txt
+PR/python-commits/closed/1da1f333a30c684f5b0215270eae4c335b1743c6-commit.txt
+PR/python-commits/closed/06d7de3ede8d7e71fd096ecbe950322e92b3b8ee-commit.txt
+PR/python-commits/closed/698a83bc06abd4f81bff481186bb93ae4218b33d-commit.txt
+PR/python-commits/closed/3e237e6e5fb875b6fcdb33bdc89b3baadf5fd659-commit.txt
+PR/python-commits/closed/5e4643d7186a9d970cdabb71aa1ce6e72013283f-commit.txt
+PR/python-commits/closed/bd229890f597b73bd018da630d6047c48b13e48a-commit.txt
+PR/python-commits/closed/0ae46789f83125cd1fbd3122e168697183909311-commit.txt
+PR/python-commits/closed/d050d5f837bbde05ff374233d049aa9dcbd849f3-commit.txt
+PR/python-commits/closed/5e4643d7186a9d970cdabb71aa1ce6e72013283f-commit.txt
+PR/python-commits/closed/73ee4a43c59db6ac8eb2b3fbcb218e1c484ff451-commit.txt
+PR/python-commits/closed/842d6ed066d77d06c695793e1fed2ce1ad15b78e-commit.txt
+PR/python-commits/closed/22eb98e79c36cb359432af8a3cf74cdde46f1f3b-commit.txt
+PR/python-commits/closed/387484d9c694cc7d26ee5483a940ee3fb5a04eea-commit.txt
+PR/python-commits/closed/c04100964cb46fb7d2b4adf0c2e8700372316c3c-commit.txt
+PR/python-commits/closed/d77f3a32031e418affb8a12bc9bb994b89ca5fc7-commit.txt
+PR/python-commits/closed/0f27cf1a9eed81cdaa083a5c0e9661e0e1d1a8ea-commit.txt
+PR/python-commits/closed/edac18bf129410e58b644b2ff16a67ebc3abda50-commit.txt
+PR/python-commits/closed/041ff11be8606dcd266b002eabde9e26d8c960ac-commit.txt
+PR/python-commits/closed/bb2b626e7eebbe145182bea57ecd3ddd42a11571-commit.txt
+PR/python-commits/closed/f96590abc0d10c22e482201595bb8daf061b5b1e-commit.txt
+PR/python-commits/closed/2041f36d3583fd9681afba994549fea1f9385756-commit.txt
+PR/python-commits/closed/686dd9a14fbdc37faf75080aff8ff784be53d7f4-commit.txt
+PR/python-commits/closed/bb2b626e7eebbe145182bea57ecd3ddd42a11571-commit.txt
+PR/python-commits/closed/9e9dac65b2e70f28a5a2a01eacef759c51e73a02-commit.txt
+PR/python-commits/closed/6f2ecd777fc2fa2f63d03f73051b88dc1744863f-commit.txt
+PR/python-commits/closed/ce6f6ed2c3c1e7316fb0c05aba21b3f78cd01ba3-commit.txt
+PR/python-commits/closed/ca7137217c0ed03075adeb47f0daf02986fd9814-commit.txt
+PR/python-commits/closed/f699cbdb78df9f84776ad3efd22cde909b737093-commit.txt
+PR/python-commits/closed/ce3ed2cc1f3282656455313c4bcb353b9bdaa351-commit.txt
+PR/python-commits/closed/81b2e4e5b3b9fab0bfcb3ba7ad1e3bf3ba8fa25b-commit.txt
+PR/python-commits/closed/65fa804a8fdbbaae264071659c9385494c77a5e9-commit.txt
+PR/python-commits/closed/6b2c67491428fb182b17efd818a36fffee86c37a-commit.txt
+PR/python-commits/closed/ada9a7ef3fc9aa731bf59e2aeec79965300f5a11-commit.txt
+PR/python-commits/closed/372056dfceb50214c86eeb14d1315fe479366eb7-commit.txt
+PR/python-commits/closed/8eee05d5d919aa12f951e6362f31e62a458c40f7-commit.txt
+PR/python-commits/closed/0078cc4791e71abaa4d2936fc49894e91beefd51-commit.txt
+PR/python-commits/closed/a7a522f3c4319e16183aff236854debe63193c8e-commit.txt
+PR/python-commits/closed/65b23a5f6d21ad2016cb686f870a236de749c32b-commit.txt
+PR/python-commits/closed/9d4f0e14d7bf3e92ba9d2261af0d161b8f5dd9cf-commit.txt
+PR/python-commits/closed/eedf1c3e56782a7b6cf88a48349b694b9fda0bfc-commit.txt
+PR/python-commits/closed/fdea15f506f0942f637c48fe4b7fa6524b2bccf5-commit.txt
+PR/python-commits/closed/cf6d7daaf81fa982b56d6bccb7c7b3c59ba6050b-commit.txt
+PR/python-commits/closed/6924c39587a4eff59953b6f6c94d1dc32d105aee-commit.txt
+PR/python-commits/closed/083a50e2326568e1187aa0bb106c985335105657-commit.txt
+PR/python-commits/closed/2ae2dc29d3b68d780d42aae3b365e1edecc16076-commit.txt
+程序执行完成。

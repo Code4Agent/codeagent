@@ -1,0 +1,169 @@
+nohup: ignoring input
+Received string: c
+
+Processing c merged SHAs:   0%|          | 0/30 [00:00<?, ?it/s]
+Processing c merged SHAs:   3%|▎         | 1/30 [09:41<4:41:09, 581.71s/it]
+Processing c merged SHAs:   7%|▋         | 2/30 [16:26<3:42:55, 477.68s/it]
+Processing c merged SHAs:  10%|█         | 3/30 [22:20<3:09:30, 421.12s/it]
+Processing c merged SHAs:  13%|█▎        | 4/30 [25:29<2:22:49, 329.59s/it]
+Processing c merged SHAs:  17%|█▋        | 5/30 [31:01<2:17:44, 330.57s/it]
+Processing c merged SHAs:  20%|██        | 6/30 [39:57<2:40:05, 400.22s/it]
+Processing c merged SHAs:  23%|██▎       | 7/30 [43:31<2:10:02, 339.26s/it]
+Processing c merged SHAs:  27%|██▋       | 8/30 [56:54<2:58:31, 486.88s/it]
+Processing c merged SHAs:  30%|███       | 9/30 [1:24:40<4:59:25, 855.48s/it]
+Processing c merged SHAs:  33%|███▎      | 10/30 [1:32:19<4:04:27, 733.37s/it]
+Processing c merged SHAs:  37%|███▋      | 11/30 [1:41:06<3:32:10, 670.03s/it]
+Processing c merged SHAs:  40%|████      | 12/30 [1:46:52<2:51:28, 571.61s/it]
+Processing c merged SHAs:  43%|████▎     | 13/30 [2:00:29<3:02:58, 645.80s/it]
+Processing c merged SHAs:  47%|████▋     | 14/30 [2:05:38<2:25:04, 544.00s/it]
+Processing c merged SHAs:  50%|█████     | 15/30 [2:09:35<1:52:51, 451.44s/it]
+Processing c merged SHAs:  53%|█████▎    | 16/30 [2:12:08<1:24:23, 361.70s/it]
+Processing c merged SHAs:  57%|█████▋    | 17/30 [2:17:59<1:17:40, 358.52s/it]
+Processing c merged SHAs:  60%|██████    | 18/30 [2:21:13<1:01:49, 309.09s/it]
+Processing c merged SHAs:  63%|██████▎   | 19/30 [2:25:16<53:02, 289.30s/it]  
+Processing c merged SHAs:  67%|██████▋   | 20/30 [2:27:59<41:54, 251.43s/it]
+Processing c merged SHAs:  70%|███████   | 21/30 [2:42:27<1:05:27, 436.43s/it]
+Processing c merged SHAs:  73%|███████▎  | 22/30 [2:49:27<57:31, 431.39s/it]  
+Processing c merged SHAs:  77%|███████▋  | 23/30 [2:52:28<41:33, 356.27s/it]
+Processing c merged SHAs:  80%|████████  | 24/30 [3:05:49<48:58, 489.79s/it]
+Processing c merged SHAs:  83%|████████▎ | 25/30 [3:15:43<43:24, 520.90s/it]
+Processing c merged SHAs:  87%|████████▋ | 26/30 [3:18:22<27:30, 412.56s/it]
+Processing c merged SHAs:  90%|█████████ | 27/30 [3:25:50<21:08, 422.93s/it]
+Processing c merged SHAs:  93%|█████████▎| 28/30 [3:29:46<12:13, 366.96s/it]
+Processing c merged SHAs:  97%|█████████▋| 29/30 [3:38:19<06:50, 410.95s/it]
+Processing c merged SHAs: 100%|██████████| 30/30 [3:45:23<00:00, 414.79s/it]
+Processing c merged SHAs: 100%|██████████| 30/30 [3:45:23<00:00, 450.79s/it]
+PR/c-commits/merged/ec4b9522789f06d733647e046941310a23ca4eb2-commit.txt
+PR/c-commits/merged/6ae6906fe9c5a13eb3e5de85ca629685dccbbddf-commit.txt
+PR/c-commits/merged/853229f87bebddf10fdcc1c770b83a8fef917239-commit.txt
+PR/c-commits/merged/49edad37d11a3c89aadad20c124c6cebd75d80d3-commit.txt
+PR/c-commits/merged/59b53051da36157cbf7347ba6e06cec717f74568-commit.txt
+PR/c-commits/merged/ec4b9522789f06d733647e046941310a23ca4eb2-commit.txt
+PR/c-commits/merged/35d76770c2b3bd317e6e77e1ff7cd0973403cfaa-commit.txt
+PR/c-commits/merged/faf52f078d35752b9f9b7125cb06d3cb91e1ca8a-commit.txt
+PR/c-commits/merged/aba7ff7a19168eb930ea74ed7a4217b16dee0df4-commit.txt
+PR/c-commits/merged/2c7f1cc858d0ecd05ea88ab8b80a659a28a72344-commit.txt
+PR/c-commits/merged/be134c8595f4203c07e892a57bbff8d30567d979-commit.txt
+PR/c-commits/merged/1a3b4f2b373d8260d297ab79e7b22969d9845803-commit.txt
+PR/c-commits/merged/477de3a544b92e229e45e7a12aeddb415980ef35-commit.txt
+PR/c-commits/merged/c4859ba1351dcf9f2b0b9c77b70091b59b64ee50-commit.txt
+PR/c-commits/merged/669e91f087fc1fe1a99e45dae20d0b5fff890a3e-commit.txt
+PR/c-commits/merged/ce56581aad677a4dba3979f5406a959818f106ed-commit.txt
+PR/c-commits/merged/efdc294eaa64f1f970fca9077ef47453dd6d5029-commit.txt
+PR/c-commits/merged/20f8df64404b125fb76b851ccea944f47b820fd8-commit.txt
+PR/c-commits/merged/bfaaf1e33ed36c0ab4e59e9d69a310f2d7e37ff6-commit.txt
+PR/c-commits/merged/870ac9d9a61dcf9eaae86d1b3087c693ff2944f3-commit.txt
+PR/c-commits/merged/15c4eabeb59976f74509800616fd979413088398-commit.txt
+PR/c-commits/merged/35beb8ea4c9455c8b60c03dd7953f3e5e75f15d3-commit.txt
+PR/c-commits/merged/ef79fcbbd27d9f6e8096c278d2975c7c71bc67b9-commit.txt
+PR/c-commits/merged/d0945f2749801edf41fa3083a7dae45e68857230-commit.txt
+PR/c-commits/merged/a650f405ef000f8bd1aceae79f664be12795d71d-commit.txt
+PR/c-commits/merged/853229f87bebddf10fdcc1c770b83a8fef917239-commit.txt
+PR/c-commits/merged/477de3a544b92e229e45e7a12aeddb415980ef35-commit.txt
+PR/c-commits/merged/1166d3f3d07f925b6a33490279d2ad9202999423-commit.txt
+PR/c-commits/merged/cd89e70a7bb06f0a30d03fa11127e726173e78f4-commit.txt
+PR/c-commits/merged/2a3e6c7418f1adc54cb417c348f8439a04ccd518-commit.txt
+
+Processing c closed SHAs:   0%|          | 0/50 [00:00<?, ?it/s]
+Processing c closed SHAs:   2%|▏         | 1/50 [03:15<2:40:00, 195.92s/it]
+Processing c closed SHAs:   4%|▍         | 2/50 [05:38<2:11:49, 164.78s/it]
+Processing c closed SHAs:   6%|▌         | 3/50 [06:57<1:38:15, 125.43s/it]
+Processing c closed SHAs:   8%|▊         | 4/50 [11:00<2:11:50, 171.96s/it]
+Processing c closed SHAs:  10%|█         | 5/50 [16:37<2:53:28, 231.31s/it]
+Processing c closed SHAs:  12%|█▏        | 6/50 [20:16<2:46:37, 227.23s/it]
+Processing c closed SHAs:  14%|█▍        | 7/50 [24:35<2:50:10, 237.46s/it]
+Processing c closed SHAs:  16%|█▌        | 8/50 [27:53<2:37:31, 225.03s/it]
+Processing c closed SHAs:  18%|█▊        | 9/50 [32:11<2:40:53, 235.46s/it]
+Processing c closed SHAs:  20%|██        | 10/50 [36:13<2:38:19, 237.48s/it]
+Processing c closed SHAs:  22%|██▏       | 11/50 [40:28<2:37:42, 242.62s/it]
+Processing c closed SHAs:  24%|██▍       | 12/50 [44:14<2:30:32, 237.70s/it]
+Processing c closed SHAs:  26%|██▌       | 13/50 [54:57<3:42:15, 360.42s/it]
+Processing c closed SHAs:  28%|██▊       | 14/50 [57:59<3:03:54, 306.51s/it]
+Processing c closed SHAs:  30%|███       | 15/50 [1:07:01<3:40:10, 377.44s/it]
+Processing c closed SHAs:  32%|███▏      | 16/50 [1:11:02<3:10:34, 336.30s/it]
+Processing c closed SHAs:  34%|███▍      | 17/50 [1:21:31<3:53:30, 424.55s/it]
+Processing c closed SHAs:  36%|███▌      | 18/50 [1:25:40<3:18:15, 371.74s/it]
+Processing c closed SHAs:  38%|███▊      | 19/50 [1:28:52<2:44:13, 317.87s/it]
+Processing c closed SHAs:  40%|████      | 20/50 [1:34:02<2:37:37, 315.25s/it]
+Processing c closed SHAs:  42%|████▏     | 21/50 [1:38:12<2:22:53, 295.65s/it]
+Processing c closed SHAs:  44%|████▍     | 22/50 [2:00:29<4:43:52, 608.29s/it]
+Processing c closed SHAs:  46%|████▌     | 23/50 [2:04:15<3:42:08, 493.64s/it]
+Processing c closed SHAs:  48%|████▊     | 24/50 [2:12:24<3:33:20, 492.31s/it]
+Processing c closed SHAs:  50%|█████     | 25/50 [2:16:50<2:56:45, 424.20s/it]
+Processing c closed SHAs:  52%|█████▏    | 26/50 [2:26:13<3:06:22, 465.93s/it]
+Processing c closed SHAs:  54%|█████▍    | 27/50 [2:36:42<3:17:20, 514.82s/it]
+Processing c closed SHAs:  56%|█████▌    | 28/50 [2:40:08<2:34:45, 422.05s/it]
+Processing c closed SHAs:  58%|█████▊    | 29/50 [2:51:48<2:56:55, 505.49s/it]
+Processing c closed SHAs:  60%|██████    | 30/50 [2:56:17<2:24:51, 434.58s/it]
+Processing c closed SHAs:  62%|██████▏   | 31/50 [3:15:56<3:28:20, 657.92s/it]
+Processing c closed SHAs:  64%|██████▍   | 32/50 [3:19:07<2:35:22, 517.89s/it]
+Processing c closed SHAs:  66%|██████▌   | 33/50 [3:25:31<2:15:21, 477.73s/it]
+Processing c closed SHAs:  68%|██████▊   | 34/50 [3:31:53<1:59:44, 449.04s/it]
+Processing c closed SHAs:  70%|███████   | 35/50 [3:43:27<2:10:38, 522.59s/it]
+Processing c closed SHAs:  72%|███████▏  | 36/50 [3:47:21<1:41:42, 435.90s/it]
+Processing c closed SHAs:  74%|███████▍  | 37/50 [3:53:11<1:28:52, 410.22s/it]
+Processing c closed SHAs:  76%|███████▌  | 38/50 [3:58:41<1:17:13, 386.09s/it]
+Processing c closed SHAs:  78%|███████▊  | 39/50 [4:07:02<1:17:07, 420.70s/it]
+Processing c closed SHAs:  80%|████████  | 40/50 [4:09:56<57:46, 346.68s/it]  
+Processing c closed SHAs:  82%|████████▏ | 41/50 [4:13:11<45:10, 301.12s/it]
+Processing c closed SHAs:  84%|████████▍ | 42/50 [4:19:24<43:00, 322.57s/it]
+Processing c closed SHAs:  86%|████████▌ | 43/50 [4:30:34<49:48, 426.98s/it]
+Processing c closed SHAs:  88%|████████▊ | 44/50 [4:32:53<34:03, 340.51s/it]
+Processing c closed SHAs:  90%|█████████ | 45/50 [4:36:03<24:36, 295.23s/it]
+Processing c closed SHAs:  92%|█████████▏| 46/50 [4:39:28<17:53, 268.29s/it]
+Processing c closed SHAs:  94%|█████████▍| 47/50 [4:41:28<11:11, 223.72s/it]
+Processing c closed SHAs:  96%|█████████▌| 48/50 [4:44:25<06:59, 209.76s/it]
+Processing c closed SHAs:  98%|█████████▊| 49/50 [4:52:55<04:59, 299.74s/it]
+Processing c closed SHAs: 100%|██████████| 50/50 [4:58:57<00:00, 318.38s/it]
+Processing c closed SHAs: 100%|██████████| 50/50 [4:58:57<00:00, 358.74s/it]
+PR/c-commits/closed/270007caa7dfa3b8767085a0e1df54e613f7c45a-commit.txt
+PR/c-commits/closed/ad4132c6172db165253c1b8c566be2c908c9654f-commit.txt
+PR/c-commits/closed/bc8e662dd596b201cf841ae260a5ca72a8280510-commit.txt
+PR/c-commits/closed/deffcdb6389dfbdb3d9169065db04e37020a17f5-commit.txt
+PR/c-commits/closed/cb8e0d81a52dbc31c6be658a88a92b292ba93487-commit.txt
+PR/c-commits/closed/fc656f4f885614b2fa9df6f5d2fb52639f084336-commit.txt
+PR/c-commits/closed/ca7226c55b37a1e08e9196822c31dd1500342019-commit.txt
+PR/c-commits/closed/98eaa9dcbe72ec70de6e2a59d059377b1eac6fa9-commit.txt
+PR/c-commits/closed/63fbeb4153b605b547e4eacab913396b20cdf4b7-commit.txt
+PR/c-commits/closed/0175e11cb9467225bc572f8683de4508757d362d-commit.txt
+PR/c-commits/closed/53a2b297de7af4ea4217236cef1d09a2de034672-commit.txt
+PR/c-commits/closed/723770303dfe02ca0b20c986da7c0b1808eae0f5-commit.txt
+PR/c-commits/closed/98659955bfdd20d09e1c40951b71b2193c9ec430-commit.txt
+PR/c-commits/closed/c1e0d832692d4b18954bec73404ea4a5b2196921-commit.txt
+PR/c-commits/closed/b2d08868ff705164a7d43b6ed406e3ac7c91a7c5-commit.txt
+PR/c-commits/closed/5f93cf43dd6f809d7927abb79884285ad77e8a58-commit.txt
+PR/c-commits/closed/9dc897d2c77d5ef43a6b237b717437375765b527-commit.txt
+PR/c-commits/closed/70ccda5669cffeb9bcc7f7d61f141d8b9f61dac3-commit.txt
+PR/c-commits/closed/2f579169bbd4dee85b153cad7a82dde22cde4388-commit.txt
+PR/c-commits/closed/98eaa9dcbe72ec70de6e2a59d059377b1eac6fa9-commit.txt
+PR/c-commits/closed/46eb1fac2784e2454d61585e9888e4b767776ae0-commit.txt
+PR/c-commits/closed/4395bd895f705247dcf38f7e389fab3e9cf7e333-commit.txt
+PR/c-commits/closed/4e050fde3a4408f3db7ace2540a7cbce7abd4d00-commit.txt
+PR/c-commits/closed/05a88b261439c70565cd6a862dd7fa5f7382f221-commit.txt
+PR/c-commits/closed/1b531efd69e04fe519d5f93fba2fc468ad095baa-commit.txt
+PR/c-commits/closed/a9c6af88d3cbd5e44a825d6237b43684dd9c041d-commit.txt
+PR/c-commits/closed/53a2b297de7af4ea4217236cef1d09a2de034672-commit.txt
+PR/c-commits/closed/1830d4cee1aff3df25094ee00535435ec2888bfc-commit.txt
+PR/c-commits/closed/519fc8b11b981bfcb6eee3fa028f47b0c4881df2-commit.txt
+PR/c-commits/closed/58110a0298b892dd5ab05385c0f72e38742b98d5-commit.txt
+PR/c-commits/closed/70ccda5669cffeb9bcc7f7d61f141d8b9f61dac3-commit.txt
+PR/c-commits/closed/991e2c0c0dda567f1919b2a4cde9cddba7927402-commit.txt
+PR/c-commits/closed/f8afd1b0161b2e2364545719c800b9d7b3b2c214-commit.txt
+PR/c-commits/closed/ddf89e73f22c09910e33e656dcb727c8b349b8d3-commit.txt
+PR/c-commits/closed/1f491ca1089ab54ee46b749a9edbe40d4032863f-commit.txt
+PR/c-commits/closed/9ecc4f7d6b24dec4d56a1d5c480fe842625dc57b-commit.txt
+PR/c-commits/closed/a507a32e5924548fbc3c56721817e9ec3d80749d-commit.txt
+PR/c-commits/closed/0b48f659dae4ba2b26f74d0d34753a6d12786a8a-commit.txt
+PR/c-commits/closed/ddf89e73f22c09910e33e656dcb727c8b349b8d3-commit.txt
+PR/c-commits/closed/3eb3afa345ebeb3123ff7ad6d7277e1e9d9bf8ad-commit.txt
+PR/c-commits/closed/50f2ea25690f73390f3a6e4d8d103ca0978b17cd-commit.txt
+PR/c-commits/closed/d68c6ee02e0697e1e4c6be01f1ec2f53a0ff8b2a-commit.txt
+PR/c-commits/closed/100c72e1e72d87067898f39479894a6af87ddeb8-commit.txt
+PR/c-commits/closed/bc8e662dd596b201cf841ae260a5ca72a8280510-commit.txt
+PR/c-commits/closed/2d4adf3998dc7cd213b0d5a23cd330a323294d9d-commit.txt
+PR/c-commits/closed/b2cf633e4b012092f2794bdbbe3141cb2f83ffd2-commit.txt
+PR/c-commits/closed/003fe7ad861ca0391df0d3fb9db645ac5cf28d3e-commit.txt
+PR/c-commits/closed/f8c5bfd1dcfad3c7e0aefc7b32ab54b84b2e9fc4-commit.txt
+PR/c-commits/closed/98659955bfdd20d09e1c40951b71b2193c9ec430-commit.txt
+PR/c-commits/closed/46eb1fac2784e2454d61585e9888e4b767776ae0-commit.txt
+程序执行完成。

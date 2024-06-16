@@ -1,0 +1,131 @@
+nohup: ignoring input
+Received string: c#
+
+Processing c# merged SHAs:   0%|          | 0/20 [00:00<?, ?it/s]
+Processing c# merged SHAs:   5%|▌         | 1/20 [02:12<41:54, 132.32s/it]
+Processing c# merged SHAs:  10%|█         | 2/20 [04:37<41:53, 139.63s/it]
+Processing c# merged SHAs:  15%|█▌        | 3/20 [08:19<50:16, 177.46s/it]
+Processing c# merged SHAs:  20%|██        | 4/20 [13:23<1:00:36, 227.28s/it]
+Processing c# merged SHAs:  25%|██▌       | 5/20 [16:39<53:59, 216.00s/it]  
+Processing c# merged SHAs:  30%|███       | 6/20 [19:04<44:46, 191.87s/it]
+Processing c# merged SHAs:  35%|███▌      | 7/20 [22:27<42:23, 195.62s/it]
+Processing c# merged SHAs:  40%|████      | 8/20 [26:10<40:53, 204.42s/it]
+Processing c# merged SHAs:  45%|████▌     | 9/20 [28:59<35:24, 193.10s/it]
+Processing c# merged SHAs:  50%|█████     | 10/20 [34:22<38:54, 233.47s/it]
+Processing c# merged SHAs:  55%|█████▌    | 11/20 [38:47<36:28, 243.12s/it]
+Processing c# merged SHAs:  60%|██████    | 12/20 [41:59<30:19, 227.44s/it]
+Processing c# merged SHAs:  65%|██████▌   | 13/20 [45:21<25:38, 219.72s/it]
+Processing c# merged SHAs:  70%|███████   | 14/20 [53:45<30:32, 305.48s/it]
+Processing c# merged SHAs:  75%|███████▌  | 15/20 [56:21<21:42, 260.53s/it]
+Processing c# merged SHAs:  80%|████████  | 16/20 [1:02:35<19:38, 294.57s/it]
+Processing c# merged SHAs:  85%|████████▌ | 17/20 [1:07:52<15:04, 301.37s/it]
+Processing c# merged SHAs:  90%|█████████ | 18/20 [1:10:25<08:33, 256.94s/it]
+Processing c# merged SHAs:  95%|█████████▌| 19/20 [1:16:47<04:54, 294.38s/it]
+Processing c# merged SHAs: 100%|██████████| 20/20 [1:18:41<00:00, 240.28s/it]
+Processing c# merged SHAs: 100%|██████████| 20/20 [1:18:41<00:00, 236.08s/it]
+PR/c#-commits/merged/f7d0445b5461abab3488741e50dbff65b9ad9aac-commit.txt
+PR/c#-commits/merged/e9ce69089df4e49718b8004c01edac477e3de694-commit.txt
+PR/c#-commits/merged/f7ca12ebdc2caf973baed15500b8ad6bea93bdf7-commit.txt
+PR/c#-commits/merged/0284c748698ad9942673261c71107466b89463b8-commit.txt
+PR/c#-commits/merged/61cbb71048d07708046071c21998feec546c7cfc-commit.txt
+PR/c#-commits/merged/362fda1379690f96f04ebd1a86cee886489f153a-commit.txt
+PR/c#-commits/merged/6ac1c799bde83a8fb49ad44e37de703421a4097c-commit.txt
+PR/c#-commits/merged/c78a8b1ef46ae55e51f41ff59b69446c72416fa3-commit.txt
+PR/c#-commits/merged/e618757525260c1f2e80aa5c14dac94273425354-commit.txt
+PR/c#-commits/merged/d1ea702eb69d845cba33c5edbc50dff2d7f0646c-commit.txt
+PR/c#-commits/merged/0969f08c98744b0ecf05fc648ee02c85011489e9-commit.txt
+PR/c#-commits/merged/7867d29135bc5ab043b15ebe8ee6506cbdc68140-commit.txt
+PR/c#-commits/merged/c1cc104d41f35c8e8efd1034892e036fcd062ad1-commit.txt
+PR/c#-commits/merged/1b47b243b92c4f9ffefbe5fbaf932d04af55a58a-commit.txt
+PR/c#-commits/merged/8217bbc580ad7bd1223a5daa469832afc54d3995-commit.txt
+PR/c#-commits/merged/612a686627a864bce077d8f35e2c37bd08cc62d3-commit.txt
+PR/c#-commits/merged/7898fc23d4d4a6a29f7f9c709e7dc31d43643e0e-commit.txt
+PR/c#-commits/merged/fc1deba2ba9082ca2621a5caeab30d00c1b77c4c-commit.txt
+PR/c#-commits/merged/9dc8a188450055161f83eb6d84610c63a19b434e-commit.txt
+PR/c#-commits/merged/67c3357b7778218b732eff4ecf139204a09fafa0-commit.txt
+
+Processing c# closed SHAs:   0%|          | 0/50 [00:00<?, ?it/s]
+Processing c# closed SHAs:  10%|█         | 5/50 [38:41<4:35:09, 366.89s/it]
+Processing c# closed SHAs:  12%|█▏        | 6/50 [42:00<3:47:21, 310.03s/it]
+Processing c# closed SHAs:  22%|██▏       | 11/50 [1:17:38<3:33:03, 327.79s/it]
+Processing c# closed SHAs:  24%|██▍       | 12/50 [1:20:29<2:57:14, 279.85s/it]
+Processing c# closed SHAs:  26%|██▌       | 13/50 [1:29:15<3:38:35, 354.48s/it]
+Processing c# closed SHAs:  28%|██▊       | 14/50 [1:34:58<3:30:37, 351.05s/it]
+Processing c# closed SHAs:  30%|███       | 15/50 [1:36:52<2:43:06, 279.60s/it]
+Processing c# closed SHAs:  32%|███▏      | 16/50 [1:42:16<2:45:58, 292.89s/it]
+Processing c# closed SHAs:  34%|███▍      | 17/50 [1:42:16<1:52:46, 205.04s/it]
+Processing c# closed SHAs:  36%|███▌      | 18/50 [1:42:17<1:16:36, 143.65s/it]
+Processing c# closed SHAs:  38%|███▊      | 19/50 [1:49:49<2:02:05, 236.32s/it]
+Processing c# closed SHAs:  40%|████      | 20/50 [1:55:41<2:15:26, 270.90s/it]
+Processing c# closed SHAs:  42%|████▏     | 21/50 [1:57:59<1:51:40, 231.07s/it]
+Processing c# closed SHAs:  44%|████▍     | 22/50 [1:59:57<1:31:55, 196.99s/it]
+Processing c# closed SHAs:  46%|████▌     | 23/50 [2:03:00<1:26:49, 192.93s/it]
+Processing c# closed SHAs:  48%|████▊     | 24/50 [2:08:28<1:41:11, 233.53s/it]
+Processing c# closed SHAs:  50%|█████     | 25/50 [2:08:29<1:08:12, 163.68s/it]
+Processing c# closed SHAs:  52%|█████▏    | 26/50 [2:11:18<1:06:04, 165.18s/it]
+Processing c# closed SHAs:  72%|███████▏  | 36/50 [3:08:34<53:50, 230.74s/it]  
+Processing c# closed SHAs:  74%|███████▍  | 37/50 [3:11:31<46:28, 214.51s/it]
+Processing c# closed SHAs:  76%|███████▌  | 38/50 [3:14:53<42:09, 210.77s/it]
+Processing c# closed SHAs:  78%|███████▊  | 39/50 [3:23:22<55:02, 300.21s/it]
+Processing c# closed SHAs:  80%|████████  | 40/50 [3:25:36<41:44, 250.42s/it]
+Processing c# closed SHAs:  82%|████████▏ | 41/50 [3:31:15<41:34, 277.11s/it]
+Processing c# closed SHAs:  84%|████████▍ | 42/50 [3:35:04<35:00, 262.57s/it]
+Processing c# closed SHAs:  86%|████████▌ | 43/50 [3:35:05<21:28, 184.03s/it]
+Processing c# closed SHAs:  88%|████████▊ | 44/50 [3:41:35<24:35, 245.87s/it]
+Processing c# closed SHAs:  90%|█████████ | 45/50 [3:45:14<19:48, 237.73s/it]
+Processing c# closed SHAs:  92%|█████████▏| 46/50 [3:47:58<14:22, 215.73s/it]
+Processing c# closed SHAs:  94%|█████████▍| 47/50 [3:49:51<09:15, 185.05s/it]
+Processing c# closed SHAs:  96%|█████████▌| 48/50 [3:53:14<06:20, 190.19s/it]
+Processing c# closed SHAs:  98%|█████████▊| 49/50 [3:53:14<02:13, 133.37s/it]
+Processing c# closed SHAs: 100%|██████████| 50/50 [4:00:57<00:00, 232.20s/it]
+PR/c#-commits/closed/f7f3997db9c0983eef9e8a0d23ffabf017adc871-commit.txt
+PR/c#-commits/closed/6c7547851caceaa8ffc6a353b78110a71f31c67a-commit.txt
+PR/c#-commits/closed/458840b9459f2b024b45749d3f685e9fe5990b4a-commit.txt
+PR/c#-commits/closed/5106d9ff7d7fb3c332cdc4349a89caeddffaed10-commit.txt
+PR/c#-commits/closed/14a6e8befe34353d5a0d12a9e59ab6201bdb3b1f-commit.txt
+PR/c#-commits/closed/4130bf2ecd85eff2973d5a5ea2678eab5a232436-commit.txt
+PR/c#-commits/closed/4597e8ba0202e586130a2111d320ee0d64697a47-commit.txt
+PR/c#-commits/closed/7898fc23d4d4a6a29f7f9c709e7dc31d43643e0e-commit.txt
+PR/c#-commits/closed/200b99dd68f675e74963c99562461e62cef1509f-commit.txt
+PR/c#-commits/closed/200b99dd68f675e74963c99562461e62cef1509f-commit.txt
+PR/c#-commits/closed/c3429087881fe4ed5e5409966b91c0d5f7a304d1-commit.txt
+PR/c#-commits/closed/75daafe27064dbc2ea0f324c59be122fff84dc58-commit.txt
+PR/c#-commits/closed/bec5c36d9da67bfcf5b88834f03b326c89f100c5-commit.txt
+PR/c#-commits/closed/f9a885219953dd67171b0986f9746795fc5fc207-commit.txt
+PR/c#-commits/closed/b2615a3e1aeabc7423143f8b9acce4416bdd85ed-commit.txt
+PR/c#-commits/closed/c024163663e50fd4743e8bb607d3a9e954630423-commit.txt
+PR/c#-commits/closed/aeab3d0e442021fb3fa271f1199953585654a5c7-commit.txt
+PR/c#-commits/closed/9c63ca0e16691675286d87a3efa792894d144696-commit.txt
+PR/c#-commits/closed/3a2db727fb28b3217a0ab1734126c211972f7e4e-commit.txt
+PR/c#-commits/closed/4130bf2ecd85eff2973d5a5ea2678eab5a232436-commit.txt
+PR/c#-commits/closed/43cd6d76079d036cebcebbb3bc0f9184229e2222-commit.txt
+PR/c#-commits/closed/bcae5e576df9044c4af0225297c08b55426340b9-commit.txt
+PR/c#-commits/closed/ac34ab5681561292a9e8c6d564dd7eda29c4af94-commit.txt
+PR/c#-commits/closed/dc478202e92e355ad2424a9f84ec239e8cc442e7-commit.txt
+PR/c#-commits/closed/319eead10280569c24f38d0205d8db5e54f4d4a9-commit.txt
+PR/c#-commits/closed/ac483009d0f7c1189bdc9ab1d50f5dbc8b6ded09-commit.txt
+PR/c#-commits/closed/5d643a09557588c8df9c3059feb7633ec941f88e-commit.txt
+PR/c#-commits/closed/3a56046f591cbd5aa003fa99fc200153315e8c24-commit.txt
+PR/c#-commits/closed/4130bf2ecd85eff2973d5a5ea2678eab5a232436-commit.txt
+PR/c#-commits/closed/f22a4f5107c6b173d9c05aff8e99e9f50a2dd0a6-commit.txt
+PR/c#-commits/closed/c3065899883a5cfefd3fa13b84933681bf842b74-commit.txt
+PR/c#-commits/closed/b6147a3ddffe71244db02f7489cbf3cdcaad72d4-commit.txt
+PR/c#-commits/closed/7914d9f2836e5c601eac3e798945aa37fffb3919-commit.txt
+PR/c#-commits/closed/1f2edc66ab20dee7206d68c73719cda2e491be45-commit.txt
+PR/c#-commits/closed/472bbb3d0cd7ee1a91d6f5d4a309071814036544-commit.txt
+PR/c#-commits/closed/472bbb3d0cd7ee1a91d6f5d4a309071814036544-commit.txt
+PR/c#-commits/closed/3a56046f591cbd5aa003fa99fc200153315e8c24-commit.txt
+PR/c#-commits/closed/9f257537bb37f640460144ca3a6f20bc0ed77e4b-commit.txt
+PR/c#-commits/closed/7898fc23d4d4a6a29f7f9c709e7dc31d43643e0e-commit.txt
+PR/c#-commits/closed/282adddf11f000d0e5fbdf2c558d2989a49c38bf-commit.txt
+PR/c#-commits/closed/3a2db727fb28b3217a0ab1734126c211972f7e4e-commit.txt
+PR/c#-commits/closed/b2615a3e1aeabc7423143f8b9acce4416bdd85ed-commit.txt
+PR/c#-commits/closed/0ff95783b7b3a694d292f521ec1a8a475a3b4400-commit.txt
+PR/c#-commits/closed/200b99dd68f675e74963c99562461e62cef1509f-commit.txt
+PR/c#-commits/closed/817117621c8be94cba7e2376998e928dd6adbac8-commit.txt
+PR/c#-commits/closed/edb85a31534a55cc44ce9c1965b7c1a0e9432100-commit.txt
+PR/c#-commits/closed/b23e9472d32ab4387094ec1e37e9f10919537163-commit.txt
+PR/c#-commits/closed/0e6b0b8c52a5a688e4b7d2a3d9e73a5a3ac28898-commit.txt
+PR/c#-commits/closed/f154728cc21e9e64fb0ad5a3652fdba2b6ae563f-commit.txt
+PR/c#-commits/closed/282adddf11f000d0e5fbdf2c558d2989a49c38bf-commit.txt
+程序执行完成。

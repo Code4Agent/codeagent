@@ -1,0 +1,80 @@
+nohup: ignoring input
+Received string: go
+Processing go merged SHAs:   0%|          | 0/25 [00:00<?, ?it/s]Processing go merged SHAs:   4%|▍         | 1/25 [04:53<1:57:25, 293.57s/it]Processing go merged SHAs:   8%|▊         | 2/25 [09:42<1:51:28, 290.82s/it]Processing go merged SHAs:  12%|█▏        | 3/25 [13:08<1:32:28, 252.19s/it]Processing go merged SHAs:  16%|█▌        | 4/25 [14:28<1:04:29, 184.24s/it]Processing go merged SHAs:  20%|██        | 5/25 [26:47<2:08:04, 384.22s/it]Processing go merged SHAs:  24%|██▍       | 6/25 [36:28<2:22:49, 451.03s/it]Processing go merged SHAs:  28%|██▊       | 7/25 [50:53<2:55:57, 586.51s/it]Processing go merged SHAs:  32%|███▏      | 8/25 [1:08:01<3:25:57, 726.90s/it]Processing go merged SHAs:  36%|███▌      | 9/25 [1:14:11<2:44:06, 615.38s/it]Processing go merged SHAs:  40%|████      | 10/25 [1:17:24<2:01:16, 485.09s/it]Processing go merged SHAs:  44%|████▍     | 11/25 [1:20:20<1:31:07, 390.52s/it]Processing go merged SHAs:  48%|████▊     | 12/25 [1:23:23<1:10:55, 327.33s/it]Processing go merged SHAs:  52%|█████▏    | 13/25 [1:31:19<1:14:26, 372.21s/it]Processing go merged SHAs:  56%|█████▌    | 14/25 [1:43:02<1:26:33, 472.11s/it]Processing go merged SHAs:  60%|██████    | 15/25 [1:45:39<1:02:53, 377.32s/it]Processing go merged SHAs:  64%|██████▍   | 16/25 [2:38:15<3:02:01, 1213.51s/it]Processing go merged SHAs:  68%|██████▊   | 17/25 [2:41:37<2:01:15, 909.46s/it] Processing go merged SHAs:  72%|███████▏  | 18/25 [2:45:57<1:23:19, 714.19s/it]Processing go merged SHAs:  76%|███████▌  | 19/25 [2:49:35<56:31, 565.32s/it]  Processing go merged SHAs:  80%|████████  | 20/25 [2:54:30<40:20, 484.04s/it]Processing go merged SHAs:  84%|████████▍ | 21/25 [2:57:11<25:48, 387.06s/it]Processing go merged SHAs:  88%|████████▊ | 22/25 [3:00:34<16:35, 331.81s/it]Processing go merged SHAs:  92%|█████████▏| 23/25 [3:02:29<08:53, 266.79s/it]Processing go merged SHAs:  96%|█████████▌| 24/25 [3:05:17<03:57, 237.37s/it]Processing go merged SHAs: 100%|██████████| 25/25 [3:08:57<00:00, 231.93s/it]Processing go merged SHAs: 100%|██████████| 25/25 [3:08:57<00:00, 453.49s/it]
+PR/go-commits/merged/a9140c232e1dd41880dead8381a4a4449faca922-commit.txt
+PR/go-commits/merged/c0bdf0c5bfbe6ae371ea81ca95b33fde7b081f74-commit.txt
+PR/go-commits/merged/a7dfbb7927314331bc839e916483a94b912ed2e7-commit.txt
+PR/go-commits/merged/1eb78e1ab77e358bf5a4a4113a46e4f4788c9d5b-commit.txt
+PR/go-commits/merged/a19a6f9accc37d2015acf88a9a84354eec0eadf6-commit.txt
+PR/go-commits/merged/36bbaba2a0c0143fe7ed4fe14ddaacfb349d9668-commit.txt
+PR/go-commits/merged/02182266ecbbe8376c57384652b504a389fc3209-commit.txt
+PR/go-commits/merged/a0b63090e03c42ddf10514851fbf7758299e0d59-commit.txt
+PR/go-commits/merged/9fe4975733e264ac720a1d898e9bf3aea8507bf7-commit.txt
+PR/go-commits/merged/75e6651a352e97d2c3bc7619661824083e429c7c-commit.txt
+PR/go-commits/merged/2d722bf1548ae6729b74450563bd6a909d061709-commit.txt
+PR/go-commits/merged/690564785a5d4281f8356e1ad33b1bdf1665e549-commit.txt
+PR/go-commits/merged/0790864064dea15f8a67c0503b739229c8857f19-commit.txt
+PR/go-commits/merged/dfe9a8c5c96685259cc0fa0e2963c26434660b75-commit.txt
+PR/go-commits/merged/942445b7cf732b7ae9dca5ed17dce810bdfe00d6-commit.txt
+PR/go-commits/merged/56e2110dc586f468c9b5c68dabe41f38fcd6d0ff-commit.txt
+PR/go-commits/merged/1eb78e1ab77e358bf5a4a4113a46e4f4788c9d5b-commit.txt
+PR/go-commits/merged/e69d0604fab153cc5076eebfbfa2ccccc25fe067-commit.txt
+PR/go-commits/merged/0790864064dea15f8a67c0503b739229c8857f19-commit.txt
+PR/go-commits/merged/7933564b4cedcb5340801a154a948f99832b04c7-commit.txt
+PR/go-commits/merged/74954a623903bc2700937272f6eae8631b3b6dcf-commit.txt
+PR/go-commits/merged/5b038f54a3022732053d7220dc2609099bbd5f35-commit.txt
+PR/go-commits/merged/23a98937b47abec81b5523f5e0cd5c1ba967948e-commit.txt
+PR/go-commits/merged/9d8ff095c0cc119ac3a86eebd2d655a322ff97be-commit.txt
+PR/go-commits/merged/75e6651a352e97d2c3bc7619661824083e429c7c-commit.txt
+Processing go closed SHAs:   0%|          | 0/50 [00:00<?, ?it/s]Processing go closed SHAs:   2%|▏         | 1/50 [06:53<5:37:58, 413.84s/it]Processing go closed SHAs:   4%|▍         | 2/50 [13:53<5:33:34, 416.98s/it]Processing go closed SHAs:   6%|▌         | 3/50 [17:32<4:16:08, 326.99s/it]Processing go closed SHAs:   8%|▊         | 4/50 [27:27<5:31:33, 432.46s/it]Processing go closed SHAs:  10%|█         | 5/50 [29:57<4:08:08, 330.86s/it]Processing go closed SHAs:  12%|█▏        | 6/50 [33:31<3:33:21, 290.94s/it]Processing go closed SHAs:  14%|█▍        | 7/50 [42:11<4:22:19, 366.03s/it]Processing go closed SHAs:  16%|█▌        | 8/50 [49:54<4:37:51, 396.94s/it]Processing go closed SHAs:  18%|█▊        | 9/50 [54:01<3:59:05, 349.89s/it]Processing go closed SHAs:  20%|██        | 10/50 [58:15<3:33:32, 320.31s/it]Processing go closed SHAs:  22%|██▏       | 11/50 [1:06:28<4:02:30, 373.08s/it]Processing go closed SHAs:  24%|██▍       | 12/50 [1:19:13<5:11:49, 492.36s/it]Processing go closed SHAs:  26%|██▌       | 13/50 [1:33:02<6:06:37, 594.51s/it]Processing go closed SHAs:  28%|██▊       | 14/50 [1:42:06<5:47:26, 579.07s/it]Processing go closed SHAs:  30%|███       | 15/50 [1:48:20<5:01:48, 517.38s/it]Processing go closed SHAs:  32%|███▏      | 16/50 [1:54:09<4:24:22, 466.54s/it]Processing go closed SHAs:  34%|███▍      | 17/50 [1:59:12<3:49:37, 417.49s/it]Processing go closed SHAs:  36%|███▌      | 18/50 [2:01:27<2:57:20, 332.51s/it]Processing go closed SHAs:  38%|███▊      | 19/50 [2:10:31<3:24:42, 396.20s/it]Processing go closed SHAs:  40%|████      | 20/50 [2:13:37<2:46:27, 332.91s/it]Processing go closed SHAs:  42%|████▏     | 21/50 [2:19:58<2:47:52, 347.32s/it]Processing go closed SHAs:  44%|████▍     | 22/50 [2:27:18<2:55:07, 375.29s/it]Processing go closed SHAs:  46%|████▌     | 23/50 [2:36:20<3:11:22, 425.28s/it]Processing go closed SHAs:  48%|████▊     | 24/50 [2:40:28<2:41:12, 372.03s/it]Processing go closed SHAs:  50%|█████     | 25/50 [2:48:38<2:49:43, 407.35s/it]Processing go closed SHAs:  52%|█████▏    | 26/50 [2:59:40<3:13:34, 483.93s/it]Processing go closed SHAs:  54%|█████▍    | 27/50 [3:07:51<3:06:19, 486.08s/it]Processing go closed SHAs:  56%|█████▌    | 28/50 [3:12:40<2:36:33, 426.96s/it]Processing go closed SHAs:  58%|█████▊    | 29/50 [3:18:03<2:18:28, 395.64s/it]Processing go closed SHAs:  60%|██████    | 30/50 [3:21:33<1:53:18, 339.92s/it]Processing go closed SHAs:  62%|██████▏   | 31/50 [3:35:06<2:32:33, 481.74s/it]Processing go closed SHAs:  64%|██████▍   | 32/50 [3:42:06<2:19:02, 463.45s/it]Processing go closed SHAs:  66%|██████▌   | 33/50 [4:14:03<4:14:51, 899.50s/it]Processing go closed SHAs:  68%|██████▊   | 34/50 [4:17:40<3:05:12, 694.55s/it]Processing go closed SHAs:  70%|███████   | 35/50 [4:21:53<2:20:32, 562.16s/it]Processing go closed SHAs:  72%|███████▏  | 36/50 [4:25:30<1:47:00, 458.58s/it]Processing go closed SHAs:  74%|███████▍  | 37/50 [4:41:21<2:11:22, 606.34s/it]Processing go closed SHAs:  76%|███████▌  | 38/50 [4:43:55<1:34:09, 470.76s/it]Processing go closed SHAs:  78%|███████▊  | 39/50 [4:48:20<1:14:58, 408.97s/it]Processing go closed SHAs:  80%|████████  | 40/50 [4:56:18<1:11:36, 429.63s/it]Processing go closed SHAs:  82%|████████▏ | 41/50 [5:04:25<1:07:01, 446.83s/it]Processing go closed SHAs:  84%|████████▍ | 42/50 [5:09:23<53:38, 402.36s/it]  Processing go closed SHAs:  86%|████████▌ | 43/50 [5:13:55<42:21, 363.01s/it]Processing go closed SHAs:  88%|████████▊ | 44/50 [5:27:27<49:46, 497.68s/it]Processing go closed SHAs:  90%|█████████ | 45/50 [5:33:03<37:26, 449.27s/it]Processing go closed SHAs:  92%|█████████▏| 46/50 [5:36:17<24:50, 372.67s/it]Processing go closed SHAs:  94%|█████████▍| 47/50 [5:38:28<15:00, 300.14s/it]Processing go closed SHAs:  96%|█████████▌| 48/50 [5:42:11<09:14, 277.01s/it]Processing go closed SHAs:  98%|█████████▊| 49/50 [5:54:07<06:48, 408.86s/it]Processing go closed SHAs: 100%|██████████| 50/50 [5:55:50<00:00, 316.99s/it]Processing go closed SHAs: 100%|██████████| 50/50 [5:55:50<00:00, 427.01s/it]
+PR/go-commits/closed/1d05b5af7e55c81cd920d9f215bdf2cf39072134-commit.txt
+PR/go-commits/closed/7095dba3e53164adf0e36d458966733d8048d95e-commit.txt
+PR/go-commits/closed/b17726a22aa1f1e67c9a26c666d62ff1697d1bce-commit.txt
+PR/go-commits/closed/d22ae5f476ada6ccf7698a5503ae8b598c213e0d-commit.txt
+PR/go-commits/closed/a2ab9bcef024cf677e3050fcce5f2596411bcf2c-commit.txt
+PR/go-commits/closed/223aefaad688807c9317ea8b9848d25af8d238ed-commit.txt
+PR/go-commits/closed/d22ae5f476ada6ccf7698a5503ae8b598c213e0d-commit.txt
+PR/go-commits/closed/92890531ded34658762250ca32576d97d14e91c0-commit.txt
+PR/go-commits/closed/7d273b4ef0780b7ed8b651c117a28b25bab5bcb1-commit.txt
+PR/go-commits/closed/9de95b09d70dc91f88e2366b448d12fbd7f9690f-commit.txt
+PR/go-commits/closed/2ae0bf234322abf2a1c368a583b988a3fa280cbb-commit.txt
+PR/go-commits/closed/1ad4c574dfac50201936988624e51ab75287e40d-commit.txt
+PR/go-commits/closed/72c5642b4a98af8fb77a736303742ba3b713a28f-commit.txt
+PR/go-commits/closed/06219268c5aba3a0cf3dd7f7ac5739cd839188c7-commit.txt
+PR/go-commits/closed/e66168660aa5e0a6f48621dd1e339d3a93c56a0b-commit.txt
+PR/go-commits/closed/fd24c809ac5726e218b440aad934635a8c21a416-commit.txt
+PR/go-commits/closed/92890531ded34658762250ca32576d97d14e91c0-commit.txt
+PR/go-commits/closed/77a03a879f312b80e8af64a2b8d7efa32ea87b47-commit.txt
+PR/go-commits/closed/1981db16475a49fe8d4b874a6bceec64d28a1332-commit.txt
+PR/go-commits/closed/43d0e89de91af2a7eb537f7fad852c608b4027e5-commit.txt
+PR/go-commits/closed/e6c2d7f2595a2590f8d8cb92170e27724075c261-commit.txt
+PR/go-commits/closed/72c5642b4a98af8fb77a736303742ba3b713a28f-commit.txt
+PR/go-commits/closed/2b89b4ca9d8cf19f7ae673968ac68391984a7650-commit.txt
+PR/go-commits/closed/2dc984ffc5f1af3ae100a14b8c1dc640284de38f-commit.txt
+PR/go-commits/closed/c53936adeb652ff4d2f532d18b77d7cdd6d8ac24-commit.txt
+PR/go-commits/closed/80e455812a27cd00f319c9d9d2cb632e750284c9-commit.txt
+PR/go-commits/closed/1d9de05793e1989e7a077cf20829cd16e9cec89c-commit.txt
+PR/go-commits/closed/a2ab9bcef024cf677e3050fcce5f2596411bcf2c-commit.txt
+PR/go-commits/closed/e6c2d7f2595a2590f8d8cb92170e27724075c261-commit.txt
+PR/go-commits/closed/80b5bf6d8514dca14f9c87dd3348b18d97a24b5b-commit.txt
+PR/go-commits/closed/80e455812a27cd00f319c9d9d2cb632e750284c9-commit.txt
+PR/go-commits/closed/ebf4a1f85b72a63356d84595e67e0871e5d499ce-commit.txt
+PR/go-commits/closed/7801fd2ffc3086f69791573556f3810754334507-commit.txt
+PR/go-commits/closed/fa4f8dd5db38d4ec9af8354bd42df43e818bb2eb-commit.txt
+PR/go-commits/closed/1d9de05793e1989e7a077cf20829cd16e9cec89c-commit.txt
+PR/go-commits/closed/102e70c5f9ad324b8ba0a51cb5ac920d4466a4fb-commit.txt
+PR/go-commits/closed/271de89af55366f4528a5acdd3e2c8e8d418c720-commit.txt
+PR/go-commits/closed/e161b2072a0e20cc2b325783b2adfb142cfff5f7-commit.txt
+PR/go-commits/closed/fa4f8dd5db38d4ec9af8354bd42df43e818bb2eb-commit.txt
+PR/go-commits/closed/9b425e7d4ab8c6368137e7d587148866bfedf0dc-commit.txt
+PR/go-commits/closed/61214ee283297851ac28e377522b528a0e5a8f79-commit.txt
+PR/go-commits/closed/39e7d5fd046d0a1e94f92dee10f9654088c4e41d-commit.txt
+PR/go-commits/closed/e161b2072a0e20cc2b325783b2adfb142cfff5f7-commit.txt
+PR/go-commits/closed/e5f9c28bc968c84323b36e17487be65e0f9542b1-commit.txt
+PR/go-commits/closed/7d273b4ef0780b7ed8b651c117a28b25bab5bcb1-commit.txt
+PR/go-commits/closed/fbd09362f2a0d401fe0b93d20316a9110fb07fe3-commit.txt
+PR/go-commits/closed/77a03a879f312b80e8af64a2b8d7efa32ea87b47-commit.txt
+PR/go-commits/closed/8afde9b3c01c80a0fbc88260e312d793cf4de5f8-commit.txt
+PR/go-commits/closed/202ddf7cd14664e661295f86e5e6b1f397465f4b-commit.txt
+PR/go-commits/closed/8566e5bb1f8958c4a4c7e40c589688eaa59b28c8-commit.txt
+程序执行完成。
