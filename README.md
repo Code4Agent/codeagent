@@ -56,7 +56,7 @@ Before running the scripts, ensure you have the required environment and depende
 
 1. **Activate Conda Environment**:
    ```bash
-   conda activate ChatDev_conda_env
+   conda activate CodeAgent_conda_env
    ```
 
 2. **Set OpenAI API Key**:
